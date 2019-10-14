@@ -5,170 +5,179 @@
    "alignment" : 2,
    "linker_set_key" : "code [1444]",
    "name" : "code [1444]",
-   "referenced_type" : "type-38",
-   "self_type" : "type-51",
+   "referenced_type" : "type-63",
+   "self_type" : "type-72",
    "size" : 5776,
-   "source_file" : "/external/zlib/src/inflate.h"
+   "source_file" : "/external/zlib/inflate.h"
   },
   {
    "alignment" : 4,
    "linker_set_key" : "const char *[10]",
    "name" : "const char *[10]",
    "referenced_type" : "type-8",
-   "self_type" : "type-62",
+   "self_type" : "type-54",
    "size" : 40,
-   "source_file" : "/external/zlib/src/zutil.h"
+   "source_file" : "/external/zlib/zutil.h"
   },
   {
    "alignment" : 2,
    "linker_set_key" : "ct_data_s [288]",
    "name" : "ct_data_s [288]",
-   "referenced_type" : "type-64",
-   "self_type" : "type-63",
+   "referenced_type" : "type-22",
+   "self_type" : "type-206",
    "size" : 1152,
-   "source_file" : "/external/zlib/src/trees.h"
+   "source_file" : "/external/zlib/trees.h"
   },
   {
    "alignment" : 2,
    "linker_set_key" : "ct_data_s [30]",
    "name" : "ct_data_s [30]",
-   "referenced_type" : "type-64",
-   "self_type" : "type-68",
+   "referenced_type" : "type-22",
+   "self_type" : "type-208",
    "size" : 120,
-   "source_file" : "/external/zlib/src/trees.h"
+   "source_file" : "/external/zlib/trees.h"
   },
   {
    "alignment" : 2,
    "linker_set_key" : "ct_data_s [39]",
    "name" : "ct_data_s [39]",
-   "referenced_type" : "type-64",
-   "self_type" : "type-95",
+   "referenced_type" : "type-22",
+   "self_type" : "type-42",
    "size" : 156,
-   "source_file" : "/external/zlib/src/deflate.h"
+   "source_file" : "/external/zlib/deflate.h"
   },
   {
    "alignment" : 2,
    "linker_set_key" : "ct_data_s [573]",
    "name" : "ct_data_s [573]",
-   "referenced_type" : "type-64",
-   "self_type" : "type-93",
+   "referenced_type" : "type-22",
+   "self_type" : "type-40",
    "size" : 2292,
-   "source_file" : "/external/zlib/src/deflate.h"
+   "source_file" : "/external/zlib/deflate.h"
   },
   {
    "alignment" : 2,
    "linker_set_key" : "ct_data_s [61]",
    "name" : "ct_data_s [61]",
-   "referenced_type" : "type-64",
-   "self_type" : "type-94",
+   "referenced_type" : "type-22",
+   "self_type" : "type-41",
    "size" : 244,
-   "source_file" : "/external/zlib/src/deflate.h"
+   "source_file" : "/external/zlib/deflate.h"
   },
   {
    "alignment" : 4,
    "linker_set_key" : "int [29]",
    "name" : "int [29]",
    "referenced_type" : "type-19",
-   "self_type" : "type-75",
+   "self_type" : "type-214",
    "size" : 116,
-   "source_file" : "/external/zlib/src/trees.h"
+   "source_file" : "/external/zlib/trees.h"
   },
   {
    "alignment" : 4,
    "linker_set_key" : "int [30]",
    "name" : "int [30]",
    "referenced_type" : "type-19",
-   "self_type" : "type-77",
+   "self_type" : "type-216",
    "size" : 120,
-   "source_file" : "/external/zlib/src/trees.h"
+   "source_file" : "/external/zlib/trees.h"
   },
   {
    "alignment" : 4,
    "linker_set_key" : "int [573]",
    "name" : "int [573]",
    "referenced_type" : "type-19",
-   "self_type" : "type-102",
+   "self_type" : "type-30",
    "size" : 2292,
-   "source_file" : "/external/zlib/src/deflate.h"
+   "source_file" : "/external/zlib/deflate.h"
   },
   {
    "alignment" : 1,
    "linker_set_key" : "unsigned char [256]",
    "name" : "unsigned char [256]",
    "referenced_type" : "type-4",
-   "self_type" : "type-73",
+   "self_type" : "type-212",
    "size" : 256,
-   "source_file" : "/external/zlib/src/trees.h"
+   "source_file" : "/external/zlib/trees.h"
   },
   {
    "alignment" : 1,
    "linker_set_key" : "unsigned char [512]",
    "name" : "unsigned char [512]",
    "referenced_type" : "type-4",
-   "self_type" : "type-71",
+   "self_type" : "type-210",
    "size" : 512,
-   "source_file" : "/external/zlib/src/trees.h"
+   "source_file" : "/external/zlib/trees.h"
   },
   {
    "alignment" : 1,
    "linker_set_key" : "unsigned char [573]",
    "name" : "unsigned char [573]",
    "referenced_type" : "type-4",
-   "self_type" : "type-103",
+   "self_type" : "type-31",
    "size" : 573,
-   "source_file" : "/external/zlib/src/deflate.h"
+   "source_file" : "/external/zlib/deflate.h"
   },
   {
    "linker_set_key" : "unsigned char []",
    "name" : "unsigned char []",
    "referenced_type" : "type-4",
-   "self_type" : "type-107",
-   "source_file" : "/external/zlib/src/deflate.h"
+   "self_type" : "type-45",
+   "source_file" : "/external/zlib/deflate.h"
+  },
+  {
+   "alignment" : 4,
+   "linker_set_key" : "unsigned int [20]",
+   "name" : "unsigned int [20]",
+   "referenced_type" : "type-5",
+   "self_type" : "type-37",
+   "size" : 80,
+   "source_file" : "/external/zlib/deflate.h"
   },
   {
    "alignment" : 4,
    "linker_set_key" : "unsigned int [256]",
    "name" : "unsigned int [256]",
    "referenced_type" : "type-5",
-   "self_type" : "type-89",
+   "self_type" : "type-48",
    "size" : 1024,
-   "source_file" : "/external/zlib/src/crc32.h"
+   "source_file" : "/external/zlib/crc32.h"
   },
   {
    "alignment" : 4,
    "linker_set_key" : "unsigned int [8][256]",
    "name" : "unsigned int [8][256]",
-   "referenced_type" : "type-89",
-   "self_type" : "type-88",
+   "referenced_type" : "type-48",
+   "self_type" : "type-47",
    "size" : 8192,
-   "source_file" : "/external/zlib/src/crc32.h"
+   "source_file" : "/external/zlib/crc32.h"
   },
   {
    "alignment" : 2,
    "linker_set_key" : "unsigned short [16]",
    "name" : "unsigned short [16]",
-   "referenced_type" : "type-39",
-   "self_type" : "type-101",
+   "referenced_type" : "type-24",
+   "self_type" : "type-29",
    "size" : 32,
-   "source_file" : "/external/zlib/src/deflate.h"
+   "source_file" : "/external/zlib/deflate.h"
   },
   {
    "alignment" : 2,
    "linker_set_key" : "unsigned short [288]",
    "name" : "unsigned short [288]",
-   "referenced_type" : "type-39",
-   "self_type" : "type-50",
+   "referenced_type" : "type-24",
+   "self_type" : "type-71",
    "size" : 576,
-   "source_file" : "/external/zlib/src/inflate.h"
+   "source_file" : "/external/zlib/inflate.h"
   },
   {
    "alignment" : 2,
    "linker_set_key" : "unsigned short [320]",
    "name" : "unsigned short [320]",
-   "referenced_type" : "type-39",
-   "self_type" : "type-49",
+   "referenced_type" : "type-24",
+   "self_type" : "type-70",
    "size" : 640,
-   "source_file" : "/external/zlib/src/inflate.h"
+   "source_file" : "/external/zlib/inflate.h"
   }
  ],
  "builtin_types" :
@@ -196,8 +205,8 @@
    "is_integral" : true,
    "linker_set_key" : "long",
    "name" : "long",
-   "referenced_type" : "type-23",
-   "self_type" : "type-23",
+   "referenced_type" : "type-39",
+   "self_type" : "type-39",
    "size" : 4
   },
   {
@@ -236,8 +245,8 @@
    "is_unsigned" : true,
    "linker_set_key" : "unsigned short",
    "name" : "unsigned short",
-   "referenced_type" : "type-39",
-   "self_type" : "type-39",
+   "referenced_type" : "type-24",
+   "self_type" : "type-24",
    "size" : 2
   },
   {
@@ -249,24 +258,6 @@
  ],
  "elf_functions" :
  [
-  {
-   "name" : "_tr_align"
-  },
-  {
-   "name" : "_tr_flush_bits"
-  },
-  {
-   "name" : "_tr_flush_block"
-  },
-  {
-   "name" : "_tr_init"
-  },
-  {
-   "name" : "_tr_stored_block"
-  },
-  {
-   "name" : "_tr_tally"
-  },
   {
    "name" : "adler32"
   },
@@ -347,9 +338,6 @@
   },
   {
    "name" : "get_crc_table"
-  },
-  {
-   "name" : "gz_error"
   },
   {
    "name" : "gzbuffer"
@@ -511,25 +499,16 @@
    "name" : "inflateValidate"
   },
   {
-   "name" : "inflate_fast"
-  },
-  {
-   "name" : "inflate_table"
-  },
-  {
    "name" : "uncompress"
   },
   {
    "name" : "uncompress2"
   },
   {
+   "name" : "x86_check_features"
+  },
+  {
    "name" : "zError"
-  },
-  {
-   "name" : "zcalloc"
-  },
-  {
-   "name" : "zcfree"
   },
   {
    "name" : "zlibCompileFlags"
@@ -541,10 +520,7 @@
  "elf_objects" :
  [
   {
-   "name" : "_dist_code"
-  },
-  {
-   "name" : "_length_code"
+   "name" : "cpu_check_inited_once"
   },
   {
    "name" : "deflate_copyright"
@@ -577,10 +553,10 @@
    ],
    "linker_set_key" : "codetype",
    "name" : "codetype",
-   "referenced_type" : "type-40",
-   "self_type" : "type-40",
+   "referenced_type" : "type-64",
+   "self_type" : "type-64",
    "size" : 4,
-   "source_file" : "/external/zlib/src/inftrees.h",
+   "source_file" : "/external/zlib/inftrees.h",
    "underlying_type" : "type-5",
    "unique_id" : "codetype"
   },
@@ -719,10 +695,10 @@
    ],
    "linker_set_key" : "inflate_mode",
    "name" : "inflate_mode",
-   "referenced_type" : "type-41",
-   "self_type" : "type-41",
+   "referenced_type" : "type-65",
+   "self_type" : "type-65",
    "size" : 4,
-   "source_file" : "/external/zlib/src/inflate.h",
+   "source_file" : "/external/zlib/inflate.h",
    "underlying_type" : "type-5",
    "unique_id" : "inflate_mode"
   }
@@ -745,10 +721,10 @@
      "referenced_type" : "type-5"
     }
    ],
-   "referenced_type" : "type-36",
+   "referenced_type" : "type-123",
    "return_type" : "type-19",
-   "self_type" : "type-36",
-   "source_file" : "/external/zlib/src/zlib.h"
+   "self_type" : "type-123",
+   "source_file" : "/external/zlib/zlib.h"
   },
   {
    "alignment" : 4,
@@ -760,13 +736,13 @@
      "referenced_type" : "type-15"
     },
     {
-     "referenced_type" : "type-34"
+     "referenced_type" : "type-121"
     }
    ],
-   "referenced_type" : "type-33",
+   "referenced_type" : "type-120",
    "return_type" : "type-5",
-   "self_type" : "type-33",
-   "source_file" : "/external/zlib/src/zlib.h"
+   "self_type" : "type-120",
+   "source_file" : "/external/zlib/zlib.h"
   },
   {
    "alignment" : 4,
@@ -784,7 +760,7 @@
    "referenced_type" : "type-18",
    "return_type" : "type-16",
    "self_type" : "type-18",
-   "source_file" : "/external/zlib/src/zlib.h"
+   "source_file" : "/external/zlib/zlib.h"
   },
   {
    "alignment" : 4,
@@ -805,107 +781,11 @@
    "referenced_type" : "type-14",
    "return_type" : "type-15",
    "self_type" : "type-14",
-   "source_file" : "/external/zlib/src/zlib.h"
+   "source_file" : "/external/zlib/zlib.h"
   }
  ],
  "functions" :
  [
-  {
-   "function_name" : "_tr_align",
-   "linker_set_key" : "_tr_align",
-   "parameters" :
-   [
-    {
-     "referenced_type" : "type-104"
-    }
-   ],
-   "return_type" : "type-16",
-   "source_file" : "/external/zlib/src/deflate.h"
-  },
-  {
-   "function_name" : "_tr_flush_bits",
-   "linker_set_key" : "_tr_flush_bits",
-   "parameters" :
-   [
-    {
-     "referenced_type" : "type-104"
-    }
-   ],
-   "return_type" : "type-16",
-   "source_file" : "/external/zlib/src/deflate.h"
-  },
-  {
-   "function_name" : "_tr_flush_block",
-   "linker_set_key" : "_tr_flush_block",
-   "parameters" :
-   [
-    {
-     "referenced_type" : "type-104"
-    },
-    {
-     "referenced_type" : "type-24"
-    },
-    {
-     "referenced_type" : "type-6"
-    },
-    {
-     "referenced_type" : "type-19"
-    }
-   ],
-   "return_type" : "type-16",
-   "source_file" : "/external/zlib/src/deflate.h"
-  },
-  {
-   "function_name" : "_tr_init",
-   "linker_set_key" : "_tr_init",
-   "parameters" :
-   [
-    {
-     "referenced_type" : "type-104"
-    }
-   ],
-   "return_type" : "type-16",
-   "source_file" : "/external/zlib/src/deflate.h"
-  },
-  {
-   "function_name" : "_tr_stored_block",
-   "linker_set_key" : "_tr_stored_block",
-   "parameters" :
-   [
-    {
-     "referenced_type" : "type-104"
-    },
-    {
-     "referenced_type" : "type-24"
-    },
-    {
-     "referenced_type" : "type-6"
-    },
-    {
-     "referenced_type" : "type-19"
-    }
-   ],
-   "return_type" : "type-16",
-   "source_file" : "/external/zlib/src/deflate.h"
-  },
-  {
-   "function_name" : "_tr_tally",
-   "linker_set_key" : "_tr_tally",
-   "parameters" :
-   [
-    {
-     "referenced_type" : "type-104"
-    },
-    {
-     "referenced_type" : "type-5"
-    },
-    {
-     "referenced_type" : "type-5"
-    }
-   ],
-   "return_type" : "type-19",
-   "source_file" : "/external/zlib/src/deflate.h"
-  },
   {
    "function_name" : "adler32",
    "linker_set_key" : "adler32",
@@ -922,7 +802,7 @@
     }
    ],
    "return_type" : "type-6",
-   "source_file" : "/external/zlib/src/zlib.h"
+   "source_file" : "/external/zlib/zlib.h"
   },
   {
    "function_name" : "adler32_combine",
@@ -936,11 +816,11 @@
      "referenced_type" : "type-6"
     },
     {
-     "referenced_type" : "type-23"
+     "referenced_type" : "type-39"
     }
    ],
    "return_type" : "type-6",
-   "source_file" : "/external/zlib/src/zlib.h"
+   "source_file" : "/external/zlib/zlib.h"
   },
   {
    "function_name" : "adler32_combine64",
@@ -954,11 +834,11 @@
      "referenced_type" : "type-6"
     },
     {
-     "referenced_type" : "type-23"
+     "referenced_type" : "type-39"
     }
    ],
    "return_type" : "type-6",
-   "source_file" : "/external/zlib/src/zutil.h"
+   "source_file" : "/external/zlib/zutil.h"
   },
   {
    "function_name" : "adler32_z",
@@ -976,7 +856,7 @@
     }
    ],
    "return_type" : "type-6",
-   "source_file" : "/external/zlib/src/zlib.h"
+   "source_file" : "/external/zlib/zlib.h"
   },
   {
    "function_name" : "compress",
@@ -987,7 +867,7 @@
      "referenced_type" : "type-7"
     },
     {
-     "referenced_type" : "type-83"
+     "referenced_type" : "type-60"
     },
     {
      "referenced_type" : "type-2"
@@ -997,7 +877,7 @@
     }
    ],
    "return_type" : "type-19",
-   "source_file" : "/external/zlib/src/zlib.h"
+   "source_file" : "/external/zlib/zlib.h"
   },
   {
    "function_name" : "compress2",
@@ -1008,7 +888,7 @@
      "referenced_type" : "type-7"
     },
     {
-     "referenced_type" : "type-83"
+     "referenced_type" : "type-60"
     },
     {
      "referenced_type" : "type-2"
@@ -1021,7 +901,7 @@
     }
    ],
    "return_type" : "type-19",
-   "source_file" : "/external/zlib/src/zlib.h"
+   "source_file" : "/external/zlib/zlib.h"
   },
   {
    "function_name" : "compressBound",
@@ -1033,7 +913,7 @@
     }
    ],
    "return_type" : "type-6",
-   "source_file" : "/external/zlib/src/zlib.h"
+   "source_file" : "/external/zlib/zlib.h"
   },
   {
    "function_name" : "crc32",
@@ -1051,7 +931,7 @@
     }
    ],
    "return_type" : "type-6",
-   "source_file" : "/external/zlib/src/zlib.h"
+   "source_file" : "/external/zlib/zlib.h"
   },
   {
    "function_name" : "crc32_combine",
@@ -1065,11 +945,11 @@
      "referenced_type" : "type-6"
     },
     {
-     "referenced_type" : "type-23"
+     "referenced_type" : "type-39"
     }
    ],
    "return_type" : "type-6",
-   "source_file" : "/external/zlib/src/zlib.h"
+   "source_file" : "/external/zlib/zlib.h"
   },
   {
    "function_name" : "crc32_combine64",
@@ -1083,11 +963,11 @@
      "referenced_type" : "type-6"
     },
     {
-     "referenced_type" : "type-23"
+     "referenced_type" : "type-39"
     }
    ],
    "return_type" : "type-6",
-   "source_file" : "/external/zlib/src/zutil.h"
+   "source_file" : "/external/zlib/zutil.h"
   },
   {
    "function_name" : "crc32_z",
@@ -1105,7 +985,7 @@
     }
    ],
    "return_type" : "type-6",
-   "source_file" : "/external/zlib/src/zlib.h"
+   "source_file" : "/external/zlib/zlib.h"
   },
   {
    "function_name" : "deflate",
@@ -1113,14 +993,14 @@
    "parameters" :
    [
     {
-     "referenced_type" : "type-43"
+     "referenced_type" : "type-34"
     },
     {
      "referenced_type" : "type-19"
     }
    ],
    "return_type" : "type-19",
-   "source_file" : "/external/zlib/src/zlib.h"
+   "source_file" : "/external/zlib/zlib.h"
   },
   {
    "function_name" : "deflateBound",
@@ -1128,14 +1008,14 @@
    "parameters" :
    [
     {
-     "referenced_type" : "type-43"
+     "referenced_type" : "type-34"
     },
     {
      "referenced_type" : "type-6"
     }
    ],
    "return_type" : "type-6",
-   "source_file" : "/external/zlib/src/zlib.h"
+   "source_file" : "/external/zlib/zlib.h"
   },
   {
    "function_name" : "deflateCopy",
@@ -1143,14 +1023,14 @@
    "parameters" :
    [
     {
-     "referenced_type" : "type-43"
+     "referenced_type" : "type-34"
     },
     {
-     "referenced_type" : "type-43"
+     "referenced_type" : "type-34"
     }
    ],
    "return_type" : "type-19",
-   "source_file" : "/external/zlib/src/zlib.h"
+   "source_file" : "/external/zlib/zlib.h"
   },
   {
    "function_name" : "deflateEnd",
@@ -1158,11 +1038,11 @@
    "parameters" :
    [
     {
-     "referenced_type" : "type-43"
+     "referenced_type" : "type-34"
     }
    ],
    "return_type" : "type-19",
-   "source_file" : "/external/zlib/src/zlib.h"
+   "source_file" : "/external/zlib/zlib.h"
   },
   {
    "function_name" : "deflateGetDictionary",
@@ -1170,17 +1050,17 @@
    "parameters" :
    [
     {
-     "referenced_type" : "type-43"
+     "referenced_type" : "type-34"
     },
     {
      "referenced_type" : "type-7"
     },
     {
-     "referenced_type" : "type-105"
+     "referenced_type" : "type-75"
     }
    ],
    "return_type" : "type-19",
-   "source_file" : "/external/zlib/src/zlib.h"
+   "source_file" : "/external/zlib/zlib.h"
   },
   {
    "function_name" : "deflateInit2_",
@@ -1188,7 +1068,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "type-43"
+     "referenced_type" : "type-34"
     },
     {
      "referenced_type" : "type-19"
@@ -1213,7 +1093,7 @@
     }
    ],
    "return_type" : "type-19",
-   "source_file" : "/external/zlib/src/zlib.h"
+   "source_file" : "/external/zlib/zlib.h"
   },
   {
    "function_name" : "deflateInit_",
@@ -1221,7 +1101,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "type-43"
+     "referenced_type" : "type-34"
     },
     {
      "referenced_type" : "type-19"
@@ -1234,7 +1114,7 @@
     }
    ],
    "return_type" : "type-19",
-   "source_file" : "/external/zlib/src/zlib.h"
+   "source_file" : "/external/zlib/zlib.h"
   },
   {
    "function_name" : "deflateParams",
@@ -1242,7 +1122,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "type-43"
+     "referenced_type" : "type-34"
     },
     {
      "referenced_type" : "type-19"
@@ -1252,7 +1132,7 @@
     }
    ],
    "return_type" : "type-19",
-   "source_file" : "/external/zlib/src/zlib.h"
+   "source_file" : "/external/zlib/zlib.h"
   },
   {
    "function_name" : "deflatePending",
@@ -1260,17 +1140,17 @@
    "parameters" :
    [
     {
-     "referenced_type" : "type-43"
+     "referenced_type" : "type-34"
     },
     {
-     "referenced_type" : "type-105"
+     "referenced_type" : "type-75"
     },
     {
-     "referenced_type" : "type-106"
+     "referenced_type" : "type-96"
     }
    ],
    "return_type" : "type-19",
-   "source_file" : "/external/zlib/src/zlib.h"
+   "source_file" : "/external/zlib/zlib.h"
   },
   {
    "function_name" : "deflatePrime",
@@ -1278,7 +1158,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "type-43"
+     "referenced_type" : "type-34"
     },
     {
      "referenced_type" : "type-19"
@@ -1288,7 +1168,7 @@
     }
    ],
    "return_type" : "type-19",
-   "source_file" : "/external/zlib/src/zlib.h"
+   "source_file" : "/external/zlib/zlib.h"
   },
   {
    "function_name" : "deflateReset",
@@ -1296,11 +1176,11 @@
    "parameters" :
    [
     {
-     "referenced_type" : "type-43"
+     "referenced_type" : "type-34"
     }
    ],
    "return_type" : "type-19",
-   "source_file" : "/external/zlib/src/zlib.h"
+   "source_file" : "/external/zlib/zlib.h"
   },
   {
    "function_name" : "deflateResetKeep",
@@ -1308,11 +1188,11 @@
    "parameters" :
    [
     {
-     "referenced_type" : "type-43"
+     "referenced_type" : "type-34"
     }
    ],
    "return_type" : "type-19",
-   "source_file" : "/external/zlib/src/zlib.h"
+   "source_file" : "/external/zlib/zlib.h"
   },
   {
    "function_name" : "deflateSetDictionary",
@@ -1320,7 +1200,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "type-43"
+     "referenced_type" : "type-34"
     },
     {
      "referenced_type" : "type-2"
@@ -1330,7 +1210,7 @@
     }
    ],
    "return_type" : "type-19",
-   "source_file" : "/external/zlib/src/zlib.h"
+   "source_file" : "/external/zlib/zlib.h"
   },
   {
    "function_name" : "deflateSetHeader",
@@ -1338,14 +1218,14 @@
    "parameters" :
    [
     {
-     "referenced_type" : "type-43"
+     "referenced_type" : "type-34"
     },
     {
-     "referenced_type" : "type-44"
+     "referenced_type" : "type-35"
     }
    ],
    "return_type" : "type-19",
-   "source_file" : "/external/zlib/src/zlib.h"
+   "source_file" : "/external/zlib/zlib.h"
   },
   {
    "function_name" : "deflateTune",
@@ -1353,7 +1233,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "type-43"
+     "referenced_type" : "type-34"
     },
     {
      "referenced_type" : "type-19"
@@ -1369,31 +1249,13 @@
     }
    ],
    "return_type" : "type-19",
-   "source_file" : "/external/zlib/src/zlib.h"
+   "source_file" : "/external/zlib/zlib.h"
   },
   {
    "function_name" : "get_crc_table",
    "linker_set_key" : "get_crc_table",
-   "return_type" : "type-86",
-   "source_file" : "/external/zlib/src/zlib.h"
-  },
-  {
-   "function_name" : "gz_error",
-   "linker_set_key" : "gz_error",
-   "parameters" :
-   [
-    {
-     "referenced_type" : "type-20"
-    },
-    {
-     "referenced_type" : "type-19"
-    },
-    {
-     "referenced_type" : "type-8"
-    }
-   ],
-   "return_type" : "type-16",
-   "source_file" : "/external/zlib/src/gzguts.h"
+   "return_type" : "type-43",
+   "source_file" : "/external/zlib/zlib.h"
   },
   {
    "function_name" : "gzbuffer",
@@ -1401,14 +1263,14 @@
    "parameters" :
    [
     {
-     "referenced_type" : "type-111"
+     "referenced_type" : "type-103"
     },
     {
      "referenced_type" : "type-5"
     }
    ],
    "return_type" : "type-19",
-   "source_file" : "/external/zlib/src/zlib.h"
+   "source_file" : "/external/zlib/zlib.h"
   },
   {
    "function_name" : "gzclearerr",
@@ -1416,11 +1278,11 @@
    "parameters" :
    [
     {
-     "referenced_type" : "type-111"
+     "referenced_type" : "type-103"
     }
    ],
    "return_type" : "type-16",
-   "source_file" : "/external/zlib/src/zlib.h"
+   "source_file" : "/external/zlib/zlib.h"
   },
   {
    "function_name" : "gzclose",
@@ -1428,11 +1290,11 @@
    "parameters" :
    [
     {
-     "referenced_type" : "type-111"
+     "referenced_type" : "type-103"
     }
    ],
    "return_type" : "type-19",
-   "source_file" : "/external/zlib/src/zlib.h"
+   "source_file" : "/external/zlib/zlib.h"
   },
   {
    "function_name" : "gzclose_r",
@@ -1440,11 +1302,11 @@
    "parameters" :
    [
     {
-     "referenced_type" : "type-111"
+     "referenced_type" : "type-103"
     }
    ],
    "return_type" : "type-19",
-   "source_file" : "/external/zlib/src/zlib.h"
+   "source_file" : "/external/zlib/zlib.h"
   },
   {
    "function_name" : "gzclose_w",
@@ -1452,11 +1314,11 @@
    "parameters" :
    [
     {
-     "referenced_type" : "type-111"
+     "referenced_type" : "type-103"
     }
    ],
    "return_type" : "type-19",
-   "source_file" : "/external/zlib/src/zlib.h"
+   "source_file" : "/external/zlib/zlib.h"
   },
   {
    "function_name" : "gzdirect",
@@ -1464,11 +1326,11 @@
    "parameters" :
    [
     {
-     "referenced_type" : "type-111"
+     "referenced_type" : "type-103"
     }
    ],
    "return_type" : "type-19",
-   "source_file" : "/external/zlib/src/zlib.h"
+   "source_file" : "/external/zlib/zlib.h"
   },
   {
    "function_name" : "gzdopen",
@@ -1482,8 +1344,8 @@
      "referenced_type" : "type-8"
     }
    ],
-   "return_type" : "type-111",
-   "source_file" : "/external/zlib/src/zlib.h"
+   "return_type" : "type-103",
+   "source_file" : "/external/zlib/zlib.h"
   },
   {
    "function_name" : "gzeof",
@@ -1491,11 +1353,11 @@
    "parameters" :
    [
     {
-     "referenced_type" : "type-111"
+     "referenced_type" : "type-103"
     }
    ],
    "return_type" : "type-19",
-   "source_file" : "/external/zlib/src/zlib.h"
+   "source_file" : "/external/zlib/zlib.h"
   },
   {
    "function_name" : "gzerror",
@@ -1503,14 +1365,14 @@
    "parameters" :
    [
     {
-     "referenced_type" : "type-111"
+     "referenced_type" : "type-103"
     },
     {
-     "referenced_type" : "type-106"
+     "referenced_type" : "type-96"
     }
    ],
    "return_type" : "type-8",
-   "source_file" : "/external/zlib/src/zlib.h"
+   "source_file" : "/external/zlib/zlib.h"
   },
   {
    "function_name" : "gzflush",
@@ -1518,14 +1380,14 @@
    "parameters" :
    [
     {
-     "referenced_type" : "type-111"
+     "referenced_type" : "type-103"
     },
     {
      "referenced_type" : "type-19"
     }
    ],
    "return_type" : "type-19",
-   "source_file" : "/external/zlib/src/zlib.h"
+   "source_file" : "/external/zlib/zlib.h"
   },
   {
    "function_name" : "gzfread",
@@ -1542,11 +1404,11 @@
      "referenced_type" : "type-5"
     },
     {
-     "referenced_type" : "type-111"
+     "referenced_type" : "type-103"
     }
    ],
    "return_type" : "type-5",
-   "source_file" : "/external/zlib/src/zlib.h"
+   "source_file" : "/external/zlib/zlib.h"
   },
   {
    "function_name" : "gzfwrite",
@@ -1554,7 +1416,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "type-30"
+     "referenced_type" : "type-116"
     },
     {
      "referenced_type" : "type-5"
@@ -1563,11 +1425,11 @@
      "referenced_type" : "type-5"
     },
     {
-     "referenced_type" : "type-111"
+     "referenced_type" : "type-103"
     }
    ],
    "return_type" : "type-5",
-   "source_file" : "/external/zlib/src/zlib.h"
+   "source_file" : "/external/zlib/zlib.h"
   },
   {
    "function_name" : "gzgetc",
@@ -1575,11 +1437,11 @@
    "parameters" :
    [
     {
-     "referenced_type" : "type-111"
+     "referenced_type" : "type-103"
     }
    ],
    "return_type" : "type-19",
-   "source_file" : "/external/zlib/src/zlib.h"
+   "source_file" : "/external/zlib/zlib.h"
   },
   {
    "function_name" : "gzgetc_",
@@ -1587,11 +1449,11 @@
    "parameters" :
    [
     {
-     "referenced_type" : "type-111"
+     "referenced_type" : "type-103"
     }
    ],
    "return_type" : "type-19",
-   "source_file" : "/external/zlib/src/zlib.h"
+   "source_file" : "/external/zlib/zlib.h"
   },
   {
    "function_name" : "gzgets",
@@ -1599,17 +1461,17 @@
    "parameters" :
    [
     {
-     "referenced_type" : "type-111"
+     "referenced_type" : "type-103"
     },
     {
-     "referenced_type" : "type-24"
+     "referenced_type" : "type-105"
     },
     {
      "referenced_type" : "type-19"
     }
    ],
-   "return_type" : "type-24",
-   "source_file" : "/external/zlib/src/zlib.h"
+   "return_type" : "type-105",
+   "source_file" : "/external/zlib/zlib.h"
   },
   {
    "function_name" : "gzoffset",
@@ -1617,11 +1479,11 @@
    "parameters" :
    [
     {
-     "referenced_type" : "type-111"
+     "referenced_type" : "type-103"
     }
    ],
-   "return_type" : "type-23",
-   "source_file" : "/external/zlib/src/zlib.h"
+   "return_type" : "type-39",
+   "source_file" : "/external/zlib/zlib.h"
   },
   {
    "function_name" : "gzoffset64",
@@ -1629,11 +1491,11 @@
    "parameters" :
    [
     {
-     "referenced_type" : "type-111"
+     "referenced_type" : "type-103"
     }
    ],
-   "return_type" : "type-23",
-   "source_file" : "/external/zlib/src/gzguts.h"
+   "return_type" : "type-39",
+   "source_file" : "/external/zlib/gzguts.h"
   },
   {
    "function_name" : "gzopen",
@@ -1647,8 +1509,8 @@
      "referenced_type" : "type-8"
     }
    ],
-   "return_type" : "type-111",
-   "source_file" : "/external/zlib/src/zlib.h"
+   "return_type" : "type-103",
+   "source_file" : "/external/zlib/zlib.h"
   },
   {
    "function_name" : "gzopen64",
@@ -1662,8 +1524,8 @@
      "referenced_type" : "type-8"
     }
    ],
-   "return_type" : "type-111",
-   "source_file" : "/external/zlib/src/gzguts.h"
+   "return_type" : "type-103",
+   "source_file" : "/external/zlib/gzguts.h"
   },
   {
    "function_name" : "gzprintf",
@@ -1671,14 +1533,14 @@
    "parameters" :
    [
     {
-     "referenced_type" : "type-111"
+     "referenced_type" : "type-103"
     },
     {
      "referenced_type" : "type-8"
     }
    ],
    "return_type" : "type-19",
-   "source_file" : "/external/zlib/src/zlib.h"
+   "source_file" : "/external/zlib/zlib.h"
   },
   {
    "function_name" : "gzputc",
@@ -1686,14 +1548,14 @@
    "parameters" :
    [
     {
-     "referenced_type" : "type-111"
+     "referenced_type" : "type-103"
     },
     {
      "referenced_type" : "type-19"
     }
    ],
    "return_type" : "type-19",
-   "source_file" : "/external/zlib/src/zlib.h"
+   "source_file" : "/external/zlib/zlib.h"
   },
   {
    "function_name" : "gzputs",
@@ -1701,14 +1563,14 @@
    "parameters" :
    [
     {
-     "referenced_type" : "type-111"
+     "referenced_type" : "type-103"
     },
     {
      "referenced_type" : "type-8"
     }
    ],
    "return_type" : "type-19",
-   "source_file" : "/external/zlib/src/zlib.h"
+   "source_file" : "/external/zlib/zlib.h"
   },
   {
    "function_name" : "gzread",
@@ -1716,7 +1578,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "type-111"
+     "referenced_type" : "type-103"
     },
     {
      "referenced_type" : "type-15"
@@ -1726,7 +1588,7 @@
     }
    ],
    "return_type" : "type-19",
-   "source_file" : "/external/zlib/src/zlib.h"
+   "source_file" : "/external/zlib/zlib.h"
   },
   {
    "function_name" : "gzrewind",
@@ -1734,11 +1596,11 @@
    "parameters" :
    [
     {
-     "referenced_type" : "type-111"
+     "referenced_type" : "type-103"
     }
    ],
    "return_type" : "type-19",
-   "source_file" : "/external/zlib/src/zlib.h"
+   "source_file" : "/external/zlib/zlib.h"
   },
   {
    "function_name" : "gzseek",
@@ -1746,17 +1608,17 @@
    "parameters" :
    [
     {
-     "referenced_type" : "type-111"
+     "referenced_type" : "type-103"
     },
     {
-     "referenced_type" : "type-23"
+     "referenced_type" : "type-39"
     },
     {
      "referenced_type" : "type-19"
     }
    ],
-   "return_type" : "type-23",
-   "source_file" : "/external/zlib/src/zlib.h"
+   "return_type" : "type-39",
+   "source_file" : "/external/zlib/zlib.h"
   },
   {
    "function_name" : "gzseek64",
@@ -1764,17 +1626,17 @@
    "parameters" :
    [
     {
-     "referenced_type" : "type-111"
+     "referenced_type" : "type-103"
     },
     {
-     "referenced_type" : "type-23"
+     "referenced_type" : "type-39"
     },
     {
      "referenced_type" : "type-19"
     }
    ],
-   "return_type" : "type-23",
-   "source_file" : "/external/zlib/src/gzguts.h"
+   "return_type" : "type-39",
+   "source_file" : "/external/zlib/gzguts.h"
   },
   {
    "function_name" : "gzsetparams",
@@ -1782,7 +1644,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "type-111"
+     "referenced_type" : "type-103"
     },
     {
      "referenced_type" : "type-19"
@@ -1792,7 +1654,7 @@
     }
    ],
    "return_type" : "type-19",
-   "source_file" : "/external/zlib/src/zlib.h"
+   "source_file" : "/external/zlib/zlib.h"
   },
   {
    "function_name" : "gztell",
@@ -1800,11 +1662,11 @@
    "parameters" :
    [
     {
-     "referenced_type" : "type-111"
+     "referenced_type" : "type-103"
     }
    ],
-   "return_type" : "type-23",
-   "source_file" : "/external/zlib/src/zlib.h"
+   "return_type" : "type-39",
+   "source_file" : "/external/zlib/zlib.h"
   },
   {
    "function_name" : "gztell64",
@@ -1812,11 +1674,11 @@
    "parameters" :
    [
     {
-     "referenced_type" : "type-111"
+     "referenced_type" : "type-103"
     }
    ],
-   "return_type" : "type-23",
-   "source_file" : "/external/zlib/src/gzguts.h"
+   "return_type" : "type-39",
+   "source_file" : "/external/zlib/gzguts.h"
   },
   {
    "function_name" : "gzungetc",
@@ -1827,11 +1689,11 @@
      "referenced_type" : "type-19"
     },
     {
-     "referenced_type" : "type-111"
+     "referenced_type" : "type-103"
     }
    ],
    "return_type" : "type-19",
-   "source_file" : "/external/zlib/src/zlib.h"
+   "source_file" : "/external/zlib/zlib.h"
   },
   {
    "function_name" : "gzvprintf",
@@ -1839,17 +1701,17 @@
    "parameters" :
    [
     {
-     "referenced_type" : "type-111"
+     "referenced_type" : "type-103"
     },
     {
      "referenced_type" : "type-8"
     },
     {
-     "referenced_type" : "type-24"
+     "referenced_type" : "type-105"
     }
    ],
    "return_type" : "type-19",
-   "source_file" : "/external/zlib/src/zlib.h"
+   "source_file" : "/external/zlib/zlib.h"
   },
   {
    "function_name" : "gzwrite",
@@ -1857,17 +1719,17 @@
    "parameters" :
    [
     {
-     "referenced_type" : "type-111"
+     "referenced_type" : "type-103"
     },
     {
-     "referenced_type" : "type-30"
+     "referenced_type" : "type-116"
     },
     {
      "referenced_type" : "type-5"
     }
    ],
    "return_type" : "type-19",
-   "source_file" : "/external/zlib/src/zlib.h"
+   "source_file" : "/external/zlib/zlib.h"
   },
   {
    "function_name" : "inflate",
@@ -1875,14 +1737,14 @@
    "parameters" :
    [
     {
-     "referenced_type" : "type-43"
+     "referenced_type" : "type-34"
     },
     {
      "referenced_type" : "type-19"
     }
    ],
    "return_type" : "type-19",
-   "source_file" : "/external/zlib/src/zlib.h"
+   "source_file" : "/external/zlib/zlib.h"
   },
   {
    "function_name" : "inflateBack",
@@ -1890,23 +1752,23 @@
    "parameters" :
    [
     {
-     "referenced_type" : "type-43"
+     "referenced_type" : "type-34"
     },
     {
-     "referenced_type" : "type-35"
+     "referenced_type" : "type-122"
     },
     {
      "referenced_type" : "type-15"
     },
     {
-     "referenced_type" : "type-37"
+     "referenced_type" : "type-125"
     },
     {
      "referenced_type" : "type-15"
     }
    ],
    "return_type" : "type-19",
-   "source_file" : "/external/zlib/src/zlib.h"
+   "source_file" : "/external/zlib/zlib.h"
   },
   {
    "function_name" : "inflateBackEnd",
@@ -1914,11 +1776,11 @@
    "parameters" :
    [
     {
-     "referenced_type" : "type-43"
+     "referenced_type" : "type-34"
     }
    ],
    "return_type" : "type-19",
-   "source_file" : "/external/zlib/src/zlib.h"
+   "source_file" : "/external/zlib/zlib.h"
   },
   {
    "function_name" : "inflateBackInit_",
@@ -1926,7 +1788,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "type-43"
+     "referenced_type" : "type-34"
     },
     {
      "referenced_type" : "type-19"
@@ -1942,7 +1804,7 @@
     }
    ],
    "return_type" : "type-19",
-   "source_file" : "/external/zlib/src/zlib.h"
+   "source_file" : "/external/zlib/zlib.h"
   },
   {
    "function_name" : "inflateCodesUsed",
@@ -1950,11 +1812,11 @@
    "parameters" :
    [
     {
-     "referenced_type" : "type-43"
+     "referenced_type" : "type-34"
     }
    ],
    "return_type" : "type-6",
-   "source_file" : "/external/zlib/src/zlib.h"
+   "source_file" : "/external/zlib/zlib.h"
   },
   {
    "function_name" : "inflateCopy",
@@ -1962,14 +1824,14 @@
    "parameters" :
    [
     {
-     "referenced_type" : "type-43"
+     "referenced_type" : "type-34"
     },
     {
-     "referenced_type" : "type-43"
+     "referenced_type" : "type-34"
     }
    ],
    "return_type" : "type-19",
-   "source_file" : "/external/zlib/src/zlib.h"
+   "source_file" : "/external/zlib/zlib.h"
   },
   {
    "function_name" : "inflateEnd",
@@ -1977,11 +1839,11 @@
    "parameters" :
    [
     {
-     "referenced_type" : "type-43"
+     "referenced_type" : "type-34"
     }
    ],
    "return_type" : "type-19",
-   "source_file" : "/external/zlib/src/zlib.h"
+   "source_file" : "/external/zlib/zlib.h"
   },
   {
    "function_name" : "inflateGetDictionary",
@@ -1989,17 +1851,17 @@
    "parameters" :
    [
     {
-     "referenced_type" : "type-43"
+     "referenced_type" : "type-34"
     },
     {
      "referenced_type" : "type-7"
     },
     {
-     "referenced_type" : "type-105"
+     "referenced_type" : "type-75"
     }
    ],
    "return_type" : "type-19",
-   "source_file" : "/external/zlib/src/zlib.h"
+   "source_file" : "/external/zlib/zlib.h"
   },
   {
    "function_name" : "inflateGetHeader",
@@ -2007,14 +1869,14 @@
    "parameters" :
    [
     {
-     "referenced_type" : "type-43"
+     "referenced_type" : "type-34"
     },
     {
-     "referenced_type" : "type-44"
+     "referenced_type" : "type-35"
     }
    ],
    "return_type" : "type-19",
-   "source_file" : "/external/zlib/src/zlib.h"
+   "source_file" : "/external/zlib/zlib.h"
   },
   {
    "function_name" : "inflateInit2_",
@@ -2022,7 +1884,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "type-43"
+     "referenced_type" : "type-34"
     },
     {
      "referenced_type" : "type-19"
@@ -2035,7 +1897,7 @@
     }
    ],
    "return_type" : "type-19",
-   "source_file" : "/external/zlib/src/zlib.h"
+   "source_file" : "/external/zlib/zlib.h"
   },
   {
    "function_name" : "inflateInit_",
@@ -2043,7 +1905,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "type-43"
+     "referenced_type" : "type-34"
     },
     {
      "referenced_type" : "type-8"
@@ -2053,7 +1915,7 @@
     }
    ],
    "return_type" : "type-19",
-   "source_file" : "/external/zlib/src/zlib.h"
+   "source_file" : "/external/zlib/zlib.h"
   },
   {
    "function_name" : "inflateMark",
@@ -2061,11 +1923,11 @@
    "parameters" :
    [
     {
-     "referenced_type" : "type-43"
+     "referenced_type" : "type-34"
     }
    ],
-   "return_type" : "type-23",
-   "source_file" : "/external/zlib/src/zlib.h"
+   "return_type" : "type-39",
+   "source_file" : "/external/zlib/zlib.h"
   },
   {
    "function_name" : "inflatePrime",
@@ -2073,7 +1935,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "type-43"
+     "referenced_type" : "type-34"
     },
     {
      "referenced_type" : "type-19"
@@ -2083,7 +1945,7 @@
     }
    ],
    "return_type" : "type-19",
-   "source_file" : "/external/zlib/src/zlib.h"
+   "source_file" : "/external/zlib/zlib.h"
   },
   {
    "function_name" : "inflateReset",
@@ -2091,11 +1953,11 @@
    "parameters" :
    [
     {
-     "referenced_type" : "type-43"
+     "referenced_type" : "type-34"
     }
    ],
    "return_type" : "type-19",
-   "source_file" : "/external/zlib/src/zlib.h"
+   "source_file" : "/external/zlib/zlib.h"
   },
   {
    "function_name" : "inflateReset2",
@@ -2103,14 +1965,14 @@
    "parameters" :
    [
     {
-     "referenced_type" : "type-43"
+     "referenced_type" : "type-34"
     },
     {
      "referenced_type" : "type-19"
     }
    ],
    "return_type" : "type-19",
-   "source_file" : "/external/zlib/src/zlib.h"
+   "source_file" : "/external/zlib/zlib.h"
   },
   {
    "function_name" : "inflateResetKeep",
@@ -2118,11 +1980,11 @@
    "parameters" :
    [
     {
-     "referenced_type" : "type-43"
+     "referenced_type" : "type-34"
     }
    ],
    "return_type" : "type-19",
-   "source_file" : "/external/zlib/src/zlib.h"
+   "source_file" : "/external/zlib/zlib.h"
   },
   {
    "function_name" : "inflateSetDictionary",
@@ -2130,7 +1992,7 @@
    "parameters" :
    [
     {
-     "referenced_type" : "type-43"
+     "referenced_type" : "type-34"
     },
     {
      "referenced_type" : "type-2"
@@ -2140,7 +2002,7 @@
     }
    ],
    "return_type" : "type-19",
-   "source_file" : "/external/zlib/src/zlib.h"
+   "source_file" : "/external/zlib/zlib.h"
   },
   {
    "function_name" : "inflateSync",
@@ -2148,11 +2010,11 @@
    "parameters" :
    [
     {
-     "referenced_type" : "type-43"
+     "referenced_type" : "type-34"
     }
    ],
    "return_type" : "type-19",
-   "source_file" : "/external/zlib/src/zlib.h"
+   "source_file" : "/external/zlib/zlib.h"
   },
   {
    "function_name" : "inflateSyncPoint",
@@ -2160,11 +2022,11 @@
    "parameters" :
    [
     {
-     "referenced_type" : "type-43"
+     "referenced_type" : "type-34"
     }
    ],
    "return_type" : "type-19",
-   "source_file" : "/external/zlib/src/zlib.h"
+   "source_file" : "/external/zlib/zlib.h"
   },
   {
    "function_name" : "inflateUndermine",
@@ -2172,14 +2034,14 @@
    "parameters" :
    [
     {
-     "referenced_type" : "type-43"
+     "referenced_type" : "type-34"
     },
     {
      "referenced_type" : "type-19"
     }
    ],
    "return_type" : "type-19",
-   "source_file" : "/external/zlib/src/zlib.h"
+   "source_file" : "/external/zlib/zlib.h"
   },
   {
    "function_name" : "inflateValidate",
@@ -2187,56 +2049,14 @@
    "parameters" :
    [
     {
-     "referenced_type" : "type-43"
+     "referenced_type" : "type-34"
     },
     {
      "referenced_type" : "type-19"
     }
    ],
    "return_type" : "type-19",
-   "source_file" : "/external/zlib/src/zlib.h"
-  },
-  {
-   "function_name" : "inflate_fast",
-   "linker_set_key" : "inflate_fast",
-   "parameters" :
-   [
-    {
-     "referenced_type" : "type-43"
-    },
-    {
-     "referenced_type" : "type-5"
-    }
-   ],
-   "return_type" : "type-16",
-   "source_file" : "/external/zlib/src/inffast.h"
-  },
-  {
-   "function_name" : "inflate_table",
-   "linker_set_key" : "inflate_table",
-   "parameters" :
-   [
-    {
-     "referenced_type" : "type-40"
-    },
-    {
-     "referenced_type" : "type-92"
-    },
-    {
-     "referenced_type" : "type-5"
-    },
-    {
-     "referenced_type" : "type-56"
-    },
-    {
-     "referenced_type" : "type-105"
-    },
-    {
-     "referenced_type" : "type-92"
-    }
-   ],
-   "return_type" : "type-19",
-   "source_file" : "/external/zlib/src/inftrees.h"
+   "source_file" : "/external/zlib/zlib.h"
   },
   {
    "function_name" : "uncompress",
@@ -2247,7 +2067,7 @@
      "referenced_type" : "type-7"
     },
     {
-     "referenced_type" : "type-83"
+     "referenced_type" : "type-60"
     },
     {
      "referenced_type" : "type-2"
@@ -2257,7 +2077,7 @@
     }
    ],
    "return_type" : "type-19",
-   "source_file" : "/external/zlib/src/zlib.h"
+   "source_file" : "/external/zlib/zlib.h"
   },
   {
    "function_name" : "uncompress2",
@@ -2268,17 +2088,23 @@
      "referenced_type" : "type-7"
     },
     {
-     "referenced_type" : "type-83"
+     "referenced_type" : "type-60"
     },
     {
      "referenced_type" : "type-2"
     },
     {
-     "referenced_type" : "type-83"
+     "referenced_type" : "type-60"
     }
    ],
    "return_type" : "type-19",
-   "source_file" : "/external/zlib/src/zlib.h"
+   "source_file" : "/external/zlib/zlib.h"
+  },
+  {
+   "function_name" : "x86_check_features",
+   "linker_set_key" : "x86_check_features",
+   "return_type" : "type-16",
+   "source_file" : "/external/zlib/x86.h"
   },
   {
    "function_name" : "zError",
@@ -2290,73 +2116,28 @@
     }
    ],
    "return_type" : "type-8",
-   "source_file" : "/external/zlib/src/zlib.h"
-  },
-  {
-   "function_name" : "zcalloc",
-   "linker_set_key" : "zcalloc",
-   "parameters" :
-   [
-    {
-     "referenced_type" : "type-15"
-    },
-    {
-     "referenced_type" : "type-5"
-    },
-    {
-     "referenced_type" : "type-5"
-    }
-   ],
-   "return_type" : "type-15",
-   "source_file" : "/external/zlib/src/zutil.h"
-  },
-  {
-   "function_name" : "zcfree",
-   "linker_set_key" : "zcfree",
-   "parameters" :
-   [
-    {
-     "referenced_type" : "type-15"
-    },
-    {
-     "referenced_type" : "type-15"
-    }
-   ],
-   "return_type" : "type-16",
-   "source_file" : "/external/zlib/src/zutil.h"
+   "source_file" : "/external/zlib/zlib.h"
   },
   {
    "function_name" : "zlibCompileFlags",
    "linker_set_key" : "zlibCompileFlags",
    "return_type" : "type-6",
-   "source_file" : "/external/zlib/src/zlib.h"
+   "source_file" : "/external/zlib/zlib.h"
   },
   {
    "function_name" : "zlibVersion",
    "linker_set_key" : "zlibVersion",
    "return_type" : "type-8",
-   "source_file" : "/external/zlib/src/zlib.h"
+   "source_file" : "/external/zlib/zlib.h"
   }
  ],
  "global_vars" :
  [
   {
-   "linker_set_key" : "_dist_code",
-   "name" : "_dist_code",
-   "referenced_type" : "type-108",
-   "source_file" : "/external/zlib/src/deflate.h"
-  },
-  {
-   "linker_set_key" : "_length_code",
-   "name" : "_length_code",
-   "referenced_type" : "type-108",
-   "source_file" : "/external/zlib/src/deflate.h"
-  },
-  {
    "linker_set_key" : "z_errmsg",
    "name" : "z_errmsg",
-   "referenced_type" : "type-69",
-   "source_file" : "/external/zlib/src/zutil.h"
+   "referenced_type" : "type-55",
+   "source_file" : "/external/zlib/zutil.h"
   }
  ],
  "lvalue_reference_types" : [],
@@ -2367,27 +2148,27 @@
    "linker_set_key" : "char *",
    "name" : "char *",
    "referenced_type" : "type-10",
-   "self_type" : "type-24",
+   "self_type" : "type-105",
    "size" : 4,
-   "source_file" : "/external/zlib/src/gzguts.h"
+   "source_file" : "/external/zlib/gzguts.h"
   },
   {
    "alignment" : 4,
    "linker_set_key" : "code *",
    "name" : "code *",
-   "referenced_type" : "type-38",
-   "self_type" : "type-48",
+   "referenced_type" : "type-63",
+   "self_type" : "type-69",
    "size" : 4,
-   "source_file" : "/external/zlib/src/inflate.h"
+   "source_file" : "/external/zlib/inflate.h"
   },
   {
    "alignment" : 4,
    "linker_set_key" : "code **",
    "name" : "code **",
-   "referenced_type" : "type-48",
-   "self_type" : "type-56",
+   "referenced_type" : "type-69",
+   "self_type" : "type-130",
    "size" : 4,
-   "source_file" : "/external/zlib/src/inftrees.h"
+   "source_file" : "/external/zlib/inftrees.h"
   },
   {
    "alignment" : 4,
@@ -2396,61 +2177,115 @@
    "referenced_type" : "type-9",
    "self_type" : "type-8",
    "size" : 4,
-   "source_file" : "/external/zlib/src/zlib.h"
+   "source_file" : "/external/zlib/zlib.h"
   },
   {
    "alignment" : 4,
    "linker_set_key" : "const code *",
    "name" : "const code *",
-   "referenced_type" : "type-47",
-   "self_type" : "type-46",
+   "referenced_type" : "type-68",
+   "self_type" : "type-67",
    "size" : 4,
-   "source_file" : "/external/zlib/src/inflate.h"
+   "source_file" : "/external/zlib/inflate.h"
   },
   {
    "alignment" : 4,
    "linker_set_key" : "const static_tree_desc_s *",
    "name" : "const static_tree_desc_s *",
-   "referenced_type" : "type-127",
-   "self_type" : "type-130",
+   "referenced_type" : "type-152",
+   "self_type" : "type-151",
    "size" : 4,
-   "source_file" : "/external/zlib/src/deflate.h"
+   "source_file" : "/external/zlib/deflate.h"
   },
   {
    "alignment" : 4,
    "linker_set_key" : "const static_tree_desc_s *",
    "name" : "const static_tree_desc_s *",
-   "referenced_type" : "type-164",
-   "self_type" : "type-166",
+   "referenced_type" : "type-166",
+   "self_type" : "type-168",
    "size" : 4,
-   "source_file" : "/external/zlib/src/deflate.h"
+   "source_file" : "/external/zlib/deflate.h"
   },
   {
    "alignment" : 4,
    "linker_set_key" : "const static_tree_desc_s *",
    "name" : "const static_tree_desc_s *",
-   "referenced_type" : "type-196",
-   "self_type" : "type-195",
+   "referenced_type" : "type-171",
+   "self_type" : "type-173",
    "size" : 4,
-   "source_file" : "/external/zlib/src/deflate.h"
+   "source_file" : "/external/zlib/deflate.h"
   },
   {
    "alignment" : 4,
    "linker_set_key" : "const static_tree_desc_s *",
    "name" : "const static_tree_desc_s *",
-   "referenced_type" : "type-59",
-   "self_type" : "type-61",
+   "referenced_type" : "type-203",
+   "self_type" : "type-205",
    "size" : 4,
-   "source_file" : "/external/zlib/src/deflate.h"
+   "source_file" : "/external/zlib/deflate.h"
   },
   {
    "alignment" : 4,
    "linker_set_key" : "const static_tree_desc_s *",
    "name" : "const static_tree_desc_s *",
-   "referenced_type" : "type-99",
-   "self_type" : "type-98",
+   "referenced_type" : "type-224",
+   "self_type" : "type-226",
    "size" : 4,
-   "source_file" : "/external/zlib/src/deflate.h"
+   "source_file" : "/external/zlib/deflate.h"
+  },
+  {
+   "alignment" : 4,
+   "linker_set_key" : "const static_tree_desc_s *",
+   "name" : "const static_tree_desc_s *",
+   "referenced_type" : "type-228",
+   "self_type" : "type-230",
+   "size" : 4,
+   "source_file" : "/external/zlib/deflate.h"
+  },
+  {
+   "alignment" : 4,
+   "linker_set_key" : "const static_tree_desc_s *",
+   "name" : "const static_tree_desc_s *",
+   "referenced_type" : "type-27",
+   "self_type" : "type-26",
+   "size" : 4,
+   "source_file" : "/external/zlib/deflate.h"
+  },
+  {
+   "alignment" : 4,
+   "linker_set_key" : "const static_tree_desc_s *",
+   "name" : "const static_tree_desc_s *",
+   "referenced_type" : "type-50",
+   "self_type" : "type-52",
+   "size" : 4,
+   "source_file" : "/external/zlib/deflate.h"
+  },
+  {
+   "alignment" : 4,
+   "linker_set_key" : "const static_tree_desc_s *",
+   "name" : "const static_tree_desc_s *",
+   "referenced_type" : "type-78",
+   "self_type" : "type-77",
+   "size" : 4,
+   "source_file" : "/external/zlib/deflate.h"
+  },
+  {
+   "alignment" : 4,
+   "linker_set_key" : "const static_tree_desc_s *",
+   "name" : "const static_tree_desc_s *",
+   "referenced_type" : "type-92",
+   "self_type" : "type-94",
+   "size" : 4,
+   "source_file" : "/external/zlib/deflate.h"
+  },
+  {
+   "alignment" : 4,
+   "linker_set_key" : "const static_tree_desc_s *",
+   "name" : "const static_tree_desc_s *",
+   "referenced_type" : "type-97",
+   "self_type" : "type-99",
+   "size" : 4,
+   "source_file" : "/external/zlib/deflate.h"
   },
   {
    "alignment" : 4,
@@ -2459,115 +2294,124 @@
    "referenced_type" : "type-3",
    "self_type" : "type-2",
    "size" : 4,
-   "source_file" : "/external/zlib/src/zlib.h"
+   "source_file" : "/external/zlib/zlib.h"
   },
   {
    "alignment" : 4,
    "linker_set_key" : "const unsigned char **",
    "name" : "const unsigned char **",
    "referenced_type" : "type-2",
-   "self_type" : "type-34",
+   "self_type" : "type-121",
    "size" : 4,
-   "source_file" : "/external/zlib/src/zlib.h"
+   "source_file" : "/external/zlib/zlib.h"
   },
   {
    "alignment" : 4,
    "linker_set_key" : "const unsigned int *",
    "name" : "const unsigned int *",
-   "referenced_type" : "type-87",
-   "self_type" : "type-86",
+   "referenced_type" : "type-44",
+   "self_type" : "type-43",
    "size" : 4,
-   "source_file" : "/external/zlib/src/zlib.h"
+   "source_file" : "/external/zlib/zlib.h"
   },
   {
    "alignment" : 4,
    "linker_set_key" : "const void *",
    "name" : "const void *",
-   "referenced_type" : "type-29",
-   "self_type" : "type-30",
+   "referenced_type" : "type-115",
+   "self_type" : "type-116",
    "size" : 4,
-   "source_file" : "/external/zlib/src/zlib.h"
+   "source_file" : "/external/zlib/zlib.h"
   },
   {
    "alignment" : 4,
    "linker_set_key" : "ct_data_s *",
    "name" : "ct_data_s *",
-   "referenced_type" : "type-64",
-   "self_type" : "type-97",
+   "referenced_type" : "type-22",
+   "self_type" : "type-21",
    "size" : 4,
-   "source_file" : "/external/zlib/src/deflate.h"
+   "source_file" : "/external/zlib/deflate.h"
   },
   {
    "alignment" : 4,
    "linker_set_key" : "gzFile_s *",
    "name" : "gzFile_s *",
-   "referenced_type" : "type-22",
-   "self_type" : "type-111",
+   "referenced_type" : "type-53",
+   "self_type" : "type-103",
    "size" : 4,
-   "source_file" : "/external/zlib/src/zlib.h"
+   "source_file" : "/external/zlib/zlib.h"
   },
   {
    "alignment" : 4,
    "linker_set_key" : "gz_header_s *",
    "name" : "gz_header_s *",
-   "referenced_type" : "type-45",
-   "self_type" : "type-44",
+   "referenced_type" : "type-36",
+   "self_type" : "type-35",
    "size" : 4,
-   "source_file" : "/external/zlib/src/zlib.h"
+   "source_file" : "/external/zlib/inflate.h"
   },
   {
    "alignment" : 4,
    "linker_set_key" : "gz_state *",
    "name" : "gz_state *",
-   "referenced_type" : "type-21",
-   "self_type" : "type-20",
+   "referenced_type" : "type-104",
+   "self_type" : "type-109",
    "size" : 4,
-   "source_file" : "/external/zlib/src/gzguts.h"
+   "source_file" : "/external/zlib/gzguts.h"
   },
   {
    "alignment" : 4,
    "linker_set_key" : "int (*)(void *, unsigned char *, unsigned int)",
    "name" : "int (*)(void *, unsigned char *, unsigned int)",
-   "referenced_type" : "type-36",
-   "self_type" : "type-37",
+   "referenced_type" : "type-123",
+   "self_type" : "type-125",
    "size" : 4,
-   "source_file" : "/external/zlib/src/zlib.h"
+   "source_file" : "/external/zlib/zlib.h"
   },
   {
    "alignment" : 4,
    "linker_set_key" : "int *",
    "name" : "int *",
    "referenced_type" : "type-19",
-   "self_type" : "type-106",
+   "self_type" : "type-96",
    "size" : 4,
-   "source_file" : "/external/zlib/src/zlib.h"
+   "source_file" : "/external/zlib/zlib.h"
   },
   {
    "alignment" : 4,
    "linker_set_key" : "internal_state *",
    "name" : "internal_state *",
-   "referenced_type" : "type-110",
-   "self_type" : "type-109",
+   "referenced_type" : "type-102",
+   "self_type" : "type-101",
    "size" : 4,
-   "source_file" : "/external/zlib/src/zlib.h"
+   "source_file" : "/external/zlib/zlib.h"
   },
   {
    "alignment" : 4,
    "linker_set_key" : "internal_state *",
    "name" : "internal_state *",
-   "referenced_type" : "type-113",
-   "self_type" : "type-112",
+   "referenced_type" : "type-108",
+   "self_type" : "type-107",
    "size" : 4,
-   "source_file" : "/external/zlib/src/zlib.h"
+   "source_file" : "/external/zlib/zlib.h"
   },
   {
    "alignment" : 4,
    "linker_set_key" : "internal_state *",
    "name" : "internal_state *",
-   "referenced_type" : "type-116",
-   "self_type" : "type-115",
+   "referenced_type" : "type-112",
+   "self_type" : "type-111",
    "size" : 4,
-   "source_file" : "/external/zlib/src/zlib.h"
+   "source_file" : "/external/zlib/zlib.h"
+  },
+  {
+   "alignment" : 4,
+   "linker_set_key" : "internal_state *",
+   "name" : "internal_state *",
+   "referenced_type" : "type-114",
+   "self_type" : "type-113",
+   "size" : 4,
+   "source_file" : "/external/zlib/zlib.h"
   },
   {
    "alignment" : 4,
@@ -2576,7 +2420,7 @@
    "referenced_type" : "type-118",
    "self_type" : "type-117",
    "size" : 4,
-   "source_file" : "/external/zlib/src/zlib.h"
+   "source_file" : "/external/zlib/zlib.h"
   },
   {
    "alignment" : 4,
@@ -2585,34 +2429,25 @@
    "referenced_type" : "type-12",
    "self_type" : "type-11",
    "size" : 4,
-   "source_file" : "/external/zlib/src/zlib.h"
+   "source_file" : "/external/zlib/zlib.h"
   },
   {
    "alignment" : 4,
    "linker_set_key" : "internal_state *",
    "name" : "internal_state *",
-   "referenced_type" : "type-120",
-   "self_type" : "type-119",
+   "referenced_type" : "type-127",
+   "self_type" : "type-126",
    "size" : 4,
-   "source_file" : "/external/zlib/src/zlib.h"
+   "source_file" : "/external/zlib/zlib.h"
   },
   {
    "alignment" : 4,
    "linker_set_key" : "internal_state *",
    "name" : "internal_state *",
-   "referenced_type" : "type-123",
-   "self_type" : "type-122",
+   "referenced_type" : "type-129",
+   "self_type" : "type-128",
    "size" : 4,
-   "source_file" : "/external/zlib/src/zlib.h"
-  },
-  {
-   "alignment" : 4,
-   "linker_set_key" : "internal_state *",
-   "name" : "internal_state *",
-   "referenced_type" : "type-125",
-   "self_type" : "type-124",
-   "size" : 4,
-   "source_file" : "/external/zlib/src/zlib.h"
+   "source_file" : "/external/zlib/zlib.h"
   },
   {
    "alignment" : 4,
@@ -2621,61 +2456,25 @@
    "referenced_type" : "type-132",
    "self_type" : "type-131",
    "size" : 4,
-   "source_file" : "/external/zlib/src/zlib.h"
+   "source_file" : "/external/zlib/zlib.h"
   },
   {
    "alignment" : 4,
    "linker_set_key" : "internal_state *",
    "name" : "internal_state *",
-   "referenced_type" : "type-134",
-   "self_type" : "type-133",
+   "referenced_type" : "type-135",
+   "self_type" : "type-134",
    "size" : 4,
-   "source_file" : "/external/zlib/src/zlib.h"
+   "source_file" : "/external/zlib/zlib.h"
   },
   {
    "alignment" : 4,
    "linker_set_key" : "internal_state *",
    "name" : "internal_state *",
-   "referenced_type" : "type-137",
-   "self_type" : "type-136",
+   "referenced_type" : "type-143",
+   "self_type" : "type-142",
    "size" : 4,
-   "source_file" : "/external/zlib/src/zlib.h"
-  },
-  {
-   "alignment" : 4,
-   "linker_set_key" : "internal_state *",
-   "name" : "internal_state *",
-   "referenced_type" : "type-139",
-   "self_type" : "type-138",
-   "size" : 4,
-   "source_file" : "/external/zlib/src/zlib.h"
-  },
-  {
-   "alignment" : 4,
-   "linker_set_key" : "internal_state *",
-   "name" : "internal_state *",
-   "referenced_type" : "type-144",
-   "self_type" : "type-143",
-   "size" : 4,
-   "source_file" : "/external/zlib/src/zlib.h"
-  },
-  {
-   "alignment" : 4,
-   "linker_set_key" : "internal_state *",
-   "name" : "internal_state *",
-   "referenced_type" : "type-150",
-   "self_type" : "type-149",
-   "size" : 4,
-   "source_file" : "/external/zlib/src/zlib.h"
-  },
-  {
-   "alignment" : 4,
-   "linker_set_key" : "internal_state *",
-   "name" : "internal_state *",
-   "referenced_type" : "type-157",
-   "self_type" : "type-156",
-   "size" : 4,
-   "source_file" : "/external/zlib/src/zlib.h"
+   "source_file" : "/external/zlib/zlib.h"
   },
   {
    "alignment" : 4,
@@ -2684,16 +2483,16 @@
    "referenced_type" : "type-159",
    "self_type" : "type-158",
    "size" : 4,
-   "source_file" : "/external/zlib/src/zlib.h"
+   "source_file" : "/external/zlib/zlib.h"
   },
   {
    "alignment" : 4,
    "linker_set_key" : "internal_state *",
    "name" : "internal_state *",
-   "referenced_type" : "type-162",
-   "self_type" : "type-161",
+   "referenced_type" : "type-176",
+   "self_type" : "type-175",
    "size" : 4,
-   "source_file" : "/external/zlib/src/zlib.h"
+   "source_file" : "/external/zlib/zlib.h"
   },
   {
    "alignment" : 4,
@@ -2702,16 +2501,7 @@
    "referenced_type" : "type-180",
    "self_type" : "type-179",
    "size" : 4,
-   "source_file" : "/external/zlib/src/zlib.h"
-  },
-  {
-   "alignment" : 4,
-   "linker_set_key" : "internal_state *",
-   "name" : "internal_state *",
-   "referenced_type" : "type-182",
-   "self_type" : "type-181",
-   "size" : 4,
-   "source_file" : "/external/zlib/src/zlib.h"
+   "source_file" : "/external/zlib/zlib.h"
   },
   {
    "alignment" : 4,
@@ -2720,97 +2510,151 @@
    "referenced_type" : "type-184",
    "self_type" : "type-183",
    "size" : 4,
-   "source_file" : "/external/zlib/src/zlib.h"
+   "source_file" : "/external/zlib/zlib.h"
   },
   {
    "alignment" : 4,
    "linker_set_key" : "internal_state *",
    "name" : "internal_state *",
-   "referenced_type" : "type-208",
-   "self_type" : "type-207",
+   "referenced_type" : "type-186",
+   "self_type" : "type-185",
    "size" : 4,
-   "source_file" : "/external/zlib/src/zlib.h"
+   "source_file" : "/external/zlib/zlib.h"
   },
   {
    "alignment" : 4,
    "linker_set_key" : "internal_state *",
    "name" : "internal_state *",
-   "referenced_type" : "type-212",
-   "self_type" : "type-211",
+   "referenced_type" : "type-190",
+   "self_type" : "type-189",
    "size" : 4,
-   "source_file" : "/external/zlib/src/zlib.h"
+   "source_file" : "/external/zlib/zlib.h"
   },
   {
    "alignment" : 4,
    "linker_set_key" : "internal_state *",
    "name" : "internal_state *",
-   "referenced_type" : "type-26",
-   "self_type" : "type-25",
+   "referenced_type" : "type-197",
+   "self_type" : "type-196",
    "size" : 4,
-   "source_file" : "/external/zlib/src/zlib.h"
+   "source_file" : "/external/zlib/zlib.h"
   },
   {
    "alignment" : 4,
    "linker_set_key" : "internal_state *",
    "name" : "internal_state *",
-   "referenced_type" : "type-28",
-   "self_type" : "type-27",
+   "referenced_type" : "type-199",
+   "self_type" : "type-198",
    "size" : 4,
-   "source_file" : "/external/zlib/src/zlib.h"
+   "source_file" : "/external/zlib/zlib.h"
   },
   {
    "alignment" : 4,
    "linker_set_key" : "internal_state *",
    "name" : "internal_state *",
-   "referenced_type" : "type-32",
-   "self_type" : "type-31",
+   "referenced_type" : "type-202",
+   "self_type" : "type-201",
    "size" : 4,
-   "source_file" : "/external/zlib/src/zlib.h"
+   "source_file" : "/external/zlib/zlib.h"
   },
   {
    "alignment" : 4,
    "linker_set_key" : "internal_state *",
    "name" : "internal_state *",
-   "referenced_type" : "type-53",
-   "self_type" : "type-52",
+   "referenced_type" : "type-219",
+   "self_type" : "type-218",
    "size" : 4,
-   "source_file" : "/external/zlib/src/zlib.h"
+   "source_file" : "/external/zlib/zlib.h"
   },
   {
    "alignment" : 4,
    "linker_set_key" : "internal_state *",
    "name" : "internal_state *",
-   "referenced_type" : "type-55",
-   "self_type" : "type-54",
+   "referenced_type" : "type-221",
+   "self_type" : "type-220",
    "size" : 4,
-   "source_file" : "/external/zlib/src/zlib.h"
+   "source_file" : "/external/zlib/zlib.h"
   },
   {
    "alignment" : 4,
    "linker_set_key" : "internal_state *",
    "name" : "internal_state *",
-   "referenced_type" : "type-58",
-   "self_type" : "type-57",
+   "referenced_type" : "type-223",
+   "self_type" : "type-222",
    "size" : 4,
-   "source_file" : "/external/zlib/src/zlib.h"
+   "source_file" : "/external/zlib/zlib.h"
   },
   {
    "alignment" : 4,
    "linker_set_key" : "internal_state *",
    "name" : "internal_state *",
-   "referenced_type" : "type-80",
-   "self_type" : "type-79",
+   "referenced_type" : "type-232",
+   "self_type" : "type-231",
    "size" : 4,
-   "source_file" : "/external/zlib/src/zlib.h"
+   "source_file" : "/external/zlib/zlib.h"
   },
   {
    "alignment" : 4,
    "linker_set_key" : "internal_state *",
    "name" : "internal_state *",
-   "referenced_type" : "type-82",
-   "self_type" : "type-81",
+   "referenced_type" : "type-235",
+   "self_type" : "type-234",
    "size" : 4,
-   "source_file" : "/external/zlib/src/zlib.h"
+   "source_file" : "/external/zlib/zlib.h"
+  },
+  {
+   "alignment" : 4,
+   "linker_set_key" : "internal_state *",
+   "name" : "internal_state *",
+   "referenced_type" : "type-243",
+   "self_type" : "type-242",
+   "size" : 4,
+   "source_file" : "/external/zlib/zlib.h"
+  },
+  {
+   "alignment" : 4,
+   "linker_set_key" : "internal_state *",
+   "name" : "internal_state *",
+   "referenced_type" : "type-33",
+   "self_type" : "type-32",
+   "size" : 4,
+   "source_file" : "/external/zlib/zlib.h"
+  },
+  {
+   "alignment" : 4,
+   "linker_set_key" : "internal_state *",
+   "name" : "internal_state *",
+   "referenced_type" : "type-57",
+   "self_type" : "type-56",
+   "size" : 4,
+   "source_file" : "/external/zlib/zlib.h"
+  },
+  {
+   "alignment" : 4,
+   "linker_set_key" : "internal_state *",
+   "name" : "internal_state *",
+   "referenced_type" : "type-59",
+   "self_type" : "type-58",
+   "size" : 4,
+   "source_file" : "/external/zlib/zlib.h"
+  },
+  {
+   "alignment" : 4,
+   "linker_set_key" : "internal_state *",
+   "name" : "internal_state *",
+   "referenced_type" : "type-62",
+   "self_type" : "type-61",
+   "size" : 4,
+   "source_file" : "/external/zlib/zlib.h"
+  },
+  {
+   "alignment" : 4,
+   "linker_set_key" : "internal_state *",
+   "name" : "internal_state *",
+   "referenced_type" : "type-74",
+   "self_type" : "type-73",
+   "size" : 4,
+   "source_file" : "/external/zlib/zlib.h"
   },
   {
    "alignment" : 4,
@@ -2819,16 +2663,7 @@
    "referenced_type" : "type-85",
    "self_type" : "type-84",
    "size" : 4,
-   "source_file" : "/external/zlib/src/zlib.h"
-  },
-  {
-   "alignment" : 4,
-   "linker_set_key" : "internal_state *",
-   "name" : "internal_state *",
-   "referenced_type" : "type-91",
-   "self_type" : "type-104",
-   "size" : 4,
-   "source_file" : "/external/zlib/src/zlib.h"
+   "source_file" : "/external/zlib/zlib.h"
   },
   {
    "alignment" : 4,
@@ -2837,43 +2672,43 @@
    "referenced_type" : "type-4",
    "self_type" : "type-7",
    "size" : 4,
-   "source_file" : "/external/zlib/src/zlib.h"
+   "source_file" : "/external/zlib/zlib.h"
   },
   {
    "alignment" : 4,
    "linker_set_key" : "unsigned int (*)(void *, const unsigned char **)",
    "name" : "unsigned int (*)(void *, const unsigned char **)",
-   "referenced_type" : "type-33",
-   "self_type" : "type-35",
+   "referenced_type" : "type-120",
+   "self_type" : "type-122",
    "size" : 4,
-   "source_file" : "/external/zlib/src/zlib.h"
+   "source_file" : "/external/zlib/zlib.h"
   },
   {
    "alignment" : 4,
    "linker_set_key" : "unsigned int *",
    "name" : "unsigned int *",
    "referenced_type" : "type-5",
-   "self_type" : "type-105",
+   "self_type" : "type-75",
    "size" : 4,
-   "source_file" : "/external/zlib/src/zlib.h"
+   "source_file" : "/external/zlib/zlib.h"
   },
   {
    "alignment" : 4,
    "linker_set_key" : "unsigned long *",
    "name" : "unsigned long *",
    "referenced_type" : "type-6",
-   "self_type" : "type-83",
+   "self_type" : "type-60",
    "size" : 4,
-   "source_file" : "/external/zlib/src/zlib.h"
+   "source_file" : "/external/zlib/zlib.h"
   },
   {
    "alignment" : 4,
    "linker_set_key" : "unsigned short *",
    "name" : "unsigned short *",
-   "referenced_type" : "type-39",
-   "self_type" : "type-92",
+   "referenced_type" : "type-24",
+   "self_type" : "type-38",
    "size" : 4,
-   "source_file" : "/external/zlib/src/deflate.h"
+   "source_file" : "/external/zlib/deflate.h"
   },
   {
    "alignment" : 4,
@@ -2882,7 +2717,7 @@
    "referenced_type" : "type-18",
    "self_type" : "type-17",
    "size" : 4,
-   "source_file" : "/external/zlib/src/zlib.h"
+   "source_file" : "/external/zlib/zlib.h"
   },
   {
    "alignment" : 4,
@@ -2891,7 +2726,7 @@
    "referenced_type" : "type-16",
    "self_type" : "type-15",
    "size" : 4,
-   "source_file" : "/external/zlib/src/zlib.h"
+   "source_file" : "/external/zlib/zlib.h"
   },
   {
    "alignment" : 4,
@@ -2900,16 +2735,16 @@
    "referenced_type" : "type-14",
    "self_type" : "type-13",
    "size" : 4,
-   "source_file" : "/external/zlib/src/zlib.h"
+   "source_file" : "/external/zlib/zlib.h"
   },
   {
    "alignment" : 4,
    "linker_set_key" : "z_stream_s *",
    "name" : "z_stream_s *",
    "referenced_type" : "type-1",
-   "self_type" : "type-43",
+   "self_type" : "type-34",
    "size" : 4,
-   "source_file" : "/external/zlib/src/zlib.h"
+   "source_file" : "/external/zlib/inflate.h"
   }
  ],
  "qualified_types" :
@@ -2922,71 +2757,117 @@
    "referenced_type" : "type-10",
    "self_type" : "type-9",
    "size" : 1,
-   "source_file" : "/external/zlib/src/zlib.h"
+   "source_file" : "/external/zlib/zlib.h"
   },
   {
    "alignment" : 4,
    "is_const" : true,
    "linker_set_key" : "const char *const[10]",
    "name" : "const char *const[10]",
-   "referenced_type" : "type-62",
-   "self_type" : "type-69",
+   "referenced_type" : "type-54",
+   "self_type" : "type-55",
    "size" : 40,
-   "source_file" : "/external/zlib/src/zutil.h"
+   "source_file" : "/external/zlib/zutil.h"
   },
   {
    "alignment" : 2,
    "is_const" : true,
    "linker_set_key" : "const code",
    "name" : "const code",
-   "referenced_type" : "type-38",
-   "self_type" : "type-47",
+   "referenced_type" : "type-63",
+   "self_type" : "type-68",
    "size" : 4,
-   "source_file" : "/external/zlib/src/inflate.h"
+   "source_file" : "/external/zlib/inflate.h"
   },
   {
    "is_const" : true,
    "linker_set_key" : "const static_tree_desc_s",
    "name" : "const static_tree_desc_s",
-   "referenced_type" : "type-100",
-   "self_type" : "type-99",
-   "source_file" : "/external/zlib/src/deflate.h"
+   "referenced_type" : "type-153",
+   "self_type" : "type-152",
+   "source_file" : "/external/zlib/deflate.h"
   },
   {
    "is_const" : true,
    "linker_set_key" : "const static_tree_desc_s",
    "name" : "const static_tree_desc_s",
-   "referenced_type" : "type-128",
-   "self_type" : "type-127",
-   "source_file" : "/external/zlib/src/deflate.h"
-  },
-  {
-   "alignment" : 4,
-   "is_const" : true,
-   "linker_set_key" : "const static_tree_desc_s",
-   "name" : "const static_tree_desc_s",
-   "referenced_type" : "type-165",
-   "self_type" : "type-164",
-   "size" : 20,
-   "source_file" : "/external/zlib/src/deflate.h"
+   "referenced_type" : "type-167",
+   "self_type" : "type-166",
+   "source_file" : "/external/zlib/deflate.h"
   },
   {
    "is_const" : true,
    "linker_set_key" : "const static_tree_desc_s",
    "name" : "const static_tree_desc_s",
-   "referenced_type" : "type-197",
-   "self_type" : "type-196",
-   "source_file" : "/external/zlib/src/deflate.h"
+   "referenced_type" : "type-172",
+   "self_type" : "type-171",
+   "source_file" : "/external/zlib/deflate.h"
   },
   {
    "alignment" : 4,
    "is_const" : true,
    "linker_set_key" : "const static_tree_desc_s",
    "name" : "const static_tree_desc_s",
-   "referenced_type" : "type-60",
-   "self_type" : "type-59",
+   "referenced_type" : "type-204",
+   "self_type" : "type-203",
    "size" : 20,
-   "source_file" : "/external/zlib/src/deflate.h"
+   "source_file" : "/external/zlib/deflate.h"
+  },
+  {
+   "is_const" : true,
+   "linker_set_key" : "const static_tree_desc_s",
+   "name" : "const static_tree_desc_s",
+   "referenced_type" : "type-225",
+   "self_type" : "type-224",
+   "source_file" : "/external/zlib/deflate.h"
+  },
+  {
+   "is_const" : true,
+   "linker_set_key" : "const static_tree_desc_s",
+   "name" : "const static_tree_desc_s",
+   "referenced_type" : "type-229",
+   "self_type" : "type-228",
+   "source_file" : "/external/zlib/deflate.h"
+  },
+  {
+   "is_const" : true,
+   "linker_set_key" : "const static_tree_desc_s",
+   "name" : "const static_tree_desc_s",
+   "referenced_type" : "type-28",
+   "self_type" : "type-27",
+   "source_file" : "/external/zlib/deflate.h"
+  },
+  {
+   "is_const" : true,
+   "linker_set_key" : "const static_tree_desc_s",
+   "name" : "const static_tree_desc_s",
+   "referenced_type" : "type-51",
+   "self_type" : "type-50",
+   "source_file" : "/external/zlib/deflate.h"
+  },
+  {
+   "is_const" : true,
+   "linker_set_key" : "const static_tree_desc_s",
+   "name" : "const static_tree_desc_s",
+   "referenced_type" : "type-79",
+   "self_type" : "type-78",
+   "source_file" : "/external/zlib/deflate.h"
+  },
+  {
+   "is_const" : true,
+   "linker_set_key" : "const static_tree_desc_s",
+   "name" : "const static_tree_desc_s",
+   "referenced_type" : "type-93",
+   "self_type" : "type-92",
+   "source_file" : "/external/zlib/deflate.h"
+  },
+  {
+   "is_const" : true,
+   "linker_set_key" : "const static_tree_desc_s",
+   "name" : "const static_tree_desc_s",
+   "referenced_type" : "type-98",
+   "self_type" : "type-97",
+   "source_file" : "/external/zlib/deflate.h"
   },
   {
    "alignment" : 1,
@@ -2996,7 +2877,7 @@
    "referenced_type" : "type-4",
    "self_type" : "type-3",
    "size" : 1,
-   "source_file" : "/external/zlib/src/zlib.h"
+   "source_file" : "/external/zlib/zlib.h"
   },
   {
    "alignment" : 4,
@@ -3004,95 +2885,105 @@
    "linker_set_key" : "const unsigned int",
    "name" : "const unsigned int",
    "referenced_type" : "type-5",
-   "self_type" : "type-87",
+   "self_type" : "type-44",
    "size" : 4,
-   "source_file" : "/external/zlib/src/zlib.h"
+   "source_file" : "/external/zlib/zlib.h"
   },
   {
    "is_const" : true,
    "linker_set_key" : "const void",
    "name" : "const void",
    "referenced_type" : "type-16",
-   "self_type" : "type-29",
-   "source_file" : "/external/zlib/src/zlib.h"
+   "self_type" : "type-115",
+   "source_file" : "/external/zlib/zlib.h"
   },
   {
    "alignment" : 2,
    "is_const" : true,
    "linker_set_key" : "ct_data_s const[288]",
    "name" : "ct_data_s const[288]",
-   "referenced_type" : "type-63",
-   "self_type" : "type-67",
+   "referenced_type" : "type-206",
+   "self_type" : "type-207",
    "size" : 1152,
-   "source_file" : "/external/zlib/src/trees.h"
+   "source_file" : "/external/zlib/trees.h"
   },
   {
    "alignment" : 2,
    "is_const" : true,
    "linker_set_key" : "ct_data_s const[30]",
    "name" : "ct_data_s const[30]",
-   "referenced_type" : "type-68",
-   "self_type" : "type-70",
+   "referenced_type" : "type-208",
+   "self_type" : "type-209",
    "size" : 120,
-   "source_file" : "/external/zlib/src/trees.h"
+   "source_file" : "/external/zlib/trees.h"
   },
   {
    "alignment" : 4,
    "is_const" : true,
    "linker_set_key" : "int const[29]",
    "name" : "int const[29]",
-   "referenced_type" : "type-75",
-   "self_type" : "type-76",
+   "referenced_type" : "type-214",
+   "self_type" : "type-215",
    "size" : 116,
-   "source_file" : "/external/zlib/src/trees.h"
+   "source_file" : "/external/zlib/trees.h"
   },
   {
    "alignment" : 4,
    "is_const" : true,
    "linker_set_key" : "int const[30]",
    "name" : "int const[30]",
-   "referenced_type" : "type-77",
-   "self_type" : "type-78",
+   "referenced_type" : "type-216",
+   "self_type" : "type-217",
    "size" : 120,
-   "source_file" : "/external/zlib/src/trees.h"
+   "source_file" : "/external/zlib/trees.h"
+  },
+  {
+   "alignment" : 4,
+   "is_const" : true,
+   "linker_set_key" : "internal_state *const",
+   "name" : "internal_state *const",
+   "referenced_type" : "type-32",
+   "self_type" : "type-227",
+   "size" : 4,
+   "source_file" : "/external/zlib/deflate.h"
   },
   {
    "alignment" : 1,
    "is_const" : true,
    "linker_set_key" : "unsigned char const[256]",
    "name" : "unsigned char const[256]",
-   "referenced_type" : "type-73",
-   "self_type" : "type-74",
+   "referenced_type" : "type-212",
+   "self_type" : "type-213",
    "size" : 256,
-   "source_file" : "/external/zlib/src/trees.h"
+   "source_file" : "/external/zlib/trees.h"
   },
   {
    "alignment" : 1,
    "is_const" : true,
    "linker_set_key" : "unsigned char const[512]",
    "name" : "unsigned char const[512]",
-   "referenced_type" : "type-71",
-   "self_type" : "type-72",
+   "referenced_type" : "type-210",
+   "self_type" : "type-211",
    "size" : 512,
-   "source_file" : "/external/zlib/src/trees.h"
+   "source_file" : "/external/zlib/trees.h"
   },
   {
    "is_const" : true,
    "linker_set_key" : "unsigned char const[]",
    "name" : "unsigned char const[]",
-   "referenced_type" : "type-107",
-   "self_type" : "type-108",
-   "source_file" : "/external/zlib/src/deflate.h"
+   "referenced_type" : "type-45",
+   "self_type" : "type-46",
+   "source_file" : "/external/zlib/deflate.h"
   },
   {
    "alignment" : 4,
    "is_const" : true,
    "linker_set_key" : "unsigned int const[8][256]",
    "name" : "unsigned int const[8][256]",
-   "referenced_type" : "type-88",
-   "self_type" : "type-90",
+   "referenced_type" : "type-47",
+   "self_type" : "type-49",
    "size" : 8192,
-   "source_file" : "/external/zlib/src/crc32.h"
+   "source_file" : "/external/zlib/crc32.h"
   }
  ],
  "record_types" :
@@ -3113,15 +3004,15 @@
     {
      "field_name" : "val",
      "field_offset" : 16,
-     "referenced_type" : "type-39"
+     "referenced_type" : "type-24"
     }
    ],
    "linker_set_key" : "code",
    "name" : "code",
-   "referenced_type" : "type-38",
-   "self_type" : "type-38",
+   "referenced_type" : "type-63",
+   "self_type" : "type-63",
    "size" : 4,
-   "source_file" : "/external/zlib/src/inftrees.h",
+   "source_file" : "/external/zlib/inftrees.h",
    "unique_id" : "code"
   },
   {
@@ -3130,20 +3021,20 @@
    [
     {
      "field_name" : "fc",
-     "referenced_type" : "type-65"
+     "referenced_type" : "type-23"
     },
     {
      "field_name" : "dl",
      "field_offset" : 16,
-     "referenced_type" : "type-66"
+     "referenced_type" : "type-25"
     }
    ],
    "linker_set_key" : "ct_data_s",
    "name" : "ct_data_s",
-   "referenced_type" : "type-64",
-   "self_type" : "type-64",
+   "referenced_type" : "type-22",
+   "self_type" : "type-22",
    "size" : 4,
-   "source_file" : "/external/zlib/src/deflate.h",
+   "source_file" : "/external/zlib/deflate.h",
    "unique_id" : "ct_data_s"
   },
   {
@@ -3152,22 +3043,22 @@
    [
     {
      "field_name" : "freq",
-     "referenced_type" : "type-39"
+     "referenced_type" : "type-24"
     },
     {
      "field_name" : "code",
-     "referenced_type" : "type-39"
+     "referenced_type" : "type-24"
     }
    ],
    "is_anonymous" : true,
-   "linker_set_key" : "ct_data_s::(anonymous union at /external/zlib/src/deflate.h:69:5) at /external/zlib/src/deflate.h:69:5",
-   "name" : "ct_data_s::(anonymous union at /external/zlib/src/deflate.h:69:5) at /external/zlib/src/deflate.h:69:5",
+   "linker_set_key" : "ct_data_s::(anonymous union at external/zlib/deflate.h:69:5) at external/zlib/deflate.h:69:5",
+   "name" : "ct_data_s::(anonymous union at external/zlib/deflate.h:69:5) at external/zlib/deflate.h:69:5",
    "record_kind" : "union",
-   "referenced_type" : "type-65",
-   "self_type" : "type-65",
+   "referenced_type" : "type-23",
+   "self_type" : "type-23",
    "size" : 2,
-   "source_file" : "/external/zlib/src/deflate.h",
-   "unique_id" : "ct_data_s::(anonymous union at /external/zlib/src/deflate.h:69:5)"
+   "source_file" : "/external/zlib/deflate.h",
+   "unique_id" : "ct_data_s::(anonymous union at external/zlib/deflate.h:69:5)"
   },
   {
    "alignment" : 2,
@@ -3175,22 +3066,22 @@
    [
     {
      "field_name" : "dad",
-     "referenced_type" : "type-39"
+     "referenced_type" : "type-24"
     },
     {
      "field_name" : "len",
-     "referenced_type" : "type-39"
+     "referenced_type" : "type-24"
     }
    ],
    "is_anonymous" : true,
-   "linker_set_key" : "ct_data_s::(anonymous union at /external/zlib/src/deflate.h:73:5) at /external/zlib/src/deflate.h:73:5",
-   "name" : "ct_data_s::(anonymous union at /external/zlib/src/deflate.h:73:5) at /external/zlib/src/deflate.h:73:5",
+   "linker_set_key" : "ct_data_s::(anonymous union at external/zlib/deflate.h:73:5) at external/zlib/deflate.h:73:5",
+   "name" : "ct_data_s::(anonymous union at external/zlib/deflate.h:73:5) at external/zlib/deflate.h:73:5",
    "record_kind" : "union",
-   "referenced_type" : "type-66",
-   "self_type" : "type-66",
+   "referenced_type" : "type-25",
+   "self_type" : "type-25",
    "size" : 2,
-   "source_file" : "/external/zlib/src/deflate.h",
-   "unique_id" : "ct_data_s::(anonymous union at /external/zlib/src/deflate.h:73:5)"
+   "source_file" : "/external/zlib/deflate.h",
+   "unique_id" : "ct_data_s::(anonymous union at external/zlib/deflate.h:73:5)"
   },
   {
    "alignment" : 4,
@@ -3208,15 +3099,15 @@
     {
      "field_name" : "pos",
      "field_offset" : 64,
-     "referenced_type" : "type-23"
+     "referenced_type" : "type-39"
     }
    ],
    "linker_set_key" : "gzFile_s",
    "name" : "gzFile_s",
-   "referenced_type" : "type-22",
-   "self_type" : "type-22",
+   "referenced_type" : "type-53",
+   "self_type" : "type-53",
    "size" : 12,
-   "source_file" : "/external/zlib/src/zlib.h",
+   "source_file" : "/external/zlib/zlib.h",
    "unique_id" : "gzFile_s"
   },
   {
@@ -3290,10 +3181,10 @@
    ],
    "linker_set_key" : "gz_header_s",
    "name" : "gz_header_s",
-   "referenced_type" : "type-45",
-   "self_type" : "type-45",
+   "referenced_type" : "type-36",
+   "self_type" : "type-36",
    "size" : 52,
-   "source_file" : "/external/zlib/src/zlib.h",
+   "source_file" : "/external/zlib/zlib.h",
    "unique_id" : "gz_header_s"
   },
   {
@@ -3302,7 +3193,7 @@
    [
     {
      "field_name" : "x",
-     "referenced_type" : "type-22"
+     "referenced_type" : "type-53"
     },
     {
      "field_name" : "mode",
@@ -3317,7 +3208,7 @@
     {
      "field_name" : "path",
      "field_offset" : 160,
-     "referenced_type" : "type-24"
+     "referenced_type" : "type-105"
     },
     {
      "field_name" : "size",
@@ -3352,7 +3243,7 @@
     {
      "field_name" : "start",
      "field_offset" : 384,
-     "referenced_type" : "type-23"
+     "referenced_type" : "type-39"
     },
     {
      "field_name" : "eof",
@@ -3377,7 +3268,7 @@
     {
      "field_name" : "skip",
      "field_offset" : 544,
-     "referenced_type" : "type-23"
+     "referenced_type" : "type-39"
     },
     {
      "field_name" : "seek",
@@ -3392,7 +3283,7 @@
     {
      "field_name" : "msg",
      "field_offset" : 640,
-     "referenced_type" : "type-24"
+     "referenced_type" : "type-105"
     },
     {
      "field_name" : "strm",
@@ -3402,10 +3293,10 @@
    ],
    "linker_set_key" : "gz_state",
    "name" : "gz_state",
-   "referenced_type" : "type-21",
-   "self_type" : "type-21",
+   "referenced_type" : "type-104",
+   "self_type" : "type-104",
    "size" : 140,
-   "source_file" : "/external/zlib/src/gzguts.h",
+   "source_file" : "/external/zlib/gzguts.h",
    "unique_id" : "gz_state"
   },
   {
@@ -3414,12 +3305,12 @@
    [
     {
      "field_name" : "strm",
-     "referenced_type" : "type-43"
+     "referenced_type" : "type-34"
     },
     {
      "field_name" : "mode",
      "field_offset" : 32,
-     "referenced_type" : "type-41"
+     "referenced_type" : "type-65"
     },
     {
      "field_name" : "last",
@@ -3459,7 +3350,7 @@
     {
      "field_name" : "head",
      "field_offset" : 288,
-     "referenced_type" : "type-44"
+     "referenced_type" : "type-35"
     },
     {
      "field_name" : "wbits",
@@ -3514,12 +3405,12 @@
     {
      "field_name" : "lencode",
      "field_offset" : 640,
-     "referenced_type" : "type-46"
+     "referenced_type" : "type-67"
     },
     {
      "field_name" : "distcode",
      "field_offset" : 672,
-     "referenced_type" : "type-46"
+     "referenced_type" : "type-67"
     },
     {
      "field_name" : "lenbits",
@@ -3554,22 +3445,22 @@
     {
      "field_name" : "next",
      "field_offset" : 896,
-     "referenced_type" : "type-48"
+     "referenced_type" : "type-69"
     },
     {
      "field_name" : "lens",
      "field_offset" : 928,
-     "referenced_type" : "type-49"
+     "referenced_type" : "type-70"
     },
     {
      "field_name" : "work",
      "field_offset" : 6048,
-     "referenced_type" : "type-50"
+     "referenced_type" : "type-71"
     },
     {
      "field_name" : "codes",
      "field_offset" : 10656,
-     "referenced_type" : "type-51"
+     "referenced_type" : "type-72"
     },
     {
      "field_name" : "sane",
@@ -3589,10 +3480,10 @@
    ],
    "linker_set_key" : "inflate_state",
    "name" : "inflate_state",
-   "referenced_type" : "type-42",
-   "self_type" : "type-42",
+   "referenced_type" : "type-66",
+   "self_type" : "type-66",
    "size" : 7120,
-   "source_file" : "/external/zlib/src/inflate.h",
+   "source_file" : "/external/zlib/inflate.h",
    "unique_id" : "inflate_state"
   },
   {
@@ -3601,7 +3492,7 @@
    [
     {
      "field_name" : "strm",
-     "referenced_type" : "type-43"
+     "referenced_type" : "type-34"
     },
     {
      "field_name" : "status",
@@ -3636,7 +3527,7 @@
     {
      "field_name" : "gzhead",
      "field_offset" : 224,
-     "referenced_type" : "type-44"
+     "referenced_type" : "type-35"
     },
     {
      "field_name" : "gzindex",
@@ -3654,252 +3545,257 @@
      "referenced_type" : "type-19"
     },
     {
-     "field_name" : "w_size",
+     "field_name" : "crc0",
      "field_offset" : 352,
-     "referenced_type" : "type-5"
+     "referenced_type" : "type-37"
     },
     {
-     "field_name" : "w_bits",
-     "field_offset" : 384,
-     "referenced_type" : "type-5"
-    },
-    {
-     "field_name" : "w_mask",
-     "field_offset" : 416,
-     "referenced_type" : "type-5"
-    },
-    {
-     "field_name" : "window",
-     "field_offset" : 448,
-     "referenced_type" : "type-7"
-    },
-    {
-     "field_name" : "window_size",
-     "field_offset" : 480,
-     "referenced_type" : "type-6"
-    },
-    {
-     "field_name" : "prev",
-     "field_offset" : 512,
-     "referenced_type" : "type-92"
-    },
-    {
-     "field_name" : "head",
-     "field_offset" : 544,
-     "referenced_type" : "type-92"
-    },
-    {
-     "field_name" : "ins_h",
-     "field_offset" : 576,
-     "referenced_type" : "type-5"
-    },
-    {
-     "field_name" : "hash_size",
-     "field_offset" : 608,
-     "referenced_type" : "type-5"
-    },
-    {
-     "field_name" : "hash_bits",
-     "field_offset" : 640,
-     "referenced_type" : "type-5"
-    },
-    {
-     "field_name" : "hash_mask",
-     "field_offset" : 672,
-     "referenced_type" : "type-5"
-    },
-    {
-     "field_name" : "hash_shift",
-     "field_offset" : 704,
-     "referenced_type" : "type-5"
-    },
-    {
-     "field_name" : "block_start",
-     "field_offset" : 736,
-     "referenced_type" : "type-23"
-    },
-    {
-     "field_name" : "match_length",
-     "field_offset" : 768,
-     "referenced_type" : "type-5"
-    },
-    {
-     "field_name" : "prev_match",
-     "field_offset" : 800,
-     "referenced_type" : "type-5"
-    },
-    {
-     "field_name" : "match_available",
-     "field_offset" : 832,
-     "referenced_type" : "type-19"
-    },
-    {
-     "field_name" : "strstart",
-     "field_offset" : 864,
-     "referenced_type" : "type-5"
-    },
-    {
-     "field_name" : "match_start",
-     "field_offset" : 896,
-     "referenced_type" : "type-5"
-    },
-    {
-     "field_name" : "lookahead",
-     "field_offset" : 928,
-     "referenced_type" : "type-5"
-    },
-    {
-     "field_name" : "prev_length",
-     "field_offset" : 960,
-     "referenced_type" : "type-5"
-    },
-    {
-     "field_name" : "max_chain_length",
+     "field_name" : "w_size",
      "field_offset" : 992,
      "referenced_type" : "type-5"
     },
     {
-     "field_name" : "max_lazy_match",
+     "field_name" : "w_bits",
      "field_offset" : 1024,
      "referenced_type" : "type-5"
     },
     {
-     "field_name" : "level",
+     "field_name" : "w_mask",
      "field_offset" : 1056,
+     "referenced_type" : "type-5"
+    },
+    {
+     "field_name" : "window",
+     "field_offset" : 1088,
+     "referenced_type" : "type-7"
+    },
+    {
+     "field_name" : "window_size",
+     "field_offset" : 1120,
+     "referenced_type" : "type-6"
+    },
+    {
+     "field_name" : "prev",
+     "field_offset" : 1152,
+     "referenced_type" : "type-38"
+    },
+    {
+     "field_name" : "head",
+     "field_offset" : 1184,
+     "referenced_type" : "type-38"
+    },
+    {
+     "field_name" : "ins_h",
+     "field_offset" : 1216,
+     "referenced_type" : "type-5"
+    },
+    {
+     "field_name" : "hash_size",
+     "field_offset" : 1248,
+     "referenced_type" : "type-5"
+    },
+    {
+     "field_name" : "hash_bits",
+     "field_offset" : 1280,
+     "referenced_type" : "type-5"
+    },
+    {
+     "field_name" : "hash_mask",
+     "field_offset" : 1312,
+     "referenced_type" : "type-5"
+    },
+    {
+     "field_name" : "hash_shift",
+     "field_offset" : 1344,
+     "referenced_type" : "type-5"
+    },
+    {
+     "field_name" : "block_start",
+     "field_offset" : 1376,
+     "referenced_type" : "type-39"
+    },
+    {
+     "field_name" : "match_length",
+     "field_offset" : 1408,
+     "referenced_type" : "type-5"
+    },
+    {
+     "field_name" : "prev_match",
+     "field_offset" : 1440,
+     "referenced_type" : "type-5"
+    },
+    {
+     "field_name" : "match_available",
+     "field_offset" : 1472,
+     "referenced_type" : "type-19"
+    },
+    {
+     "field_name" : "strstart",
+     "field_offset" : 1504,
+     "referenced_type" : "type-5"
+    },
+    {
+     "field_name" : "match_start",
+     "field_offset" : 1536,
+     "referenced_type" : "type-5"
+    },
+    {
+     "field_name" : "lookahead",
+     "field_offset" : 1568,
+     "referenced_type" : "type-5"
+    },
+    {
+     "field_name" : "prev_length",
+     "field_offset" : 1600,
+     "referenced_type" : "type-5"
+    },
+    {
+     "field_name" : "max_chain_length",
+     "field_offset" : 1632,
+     "referenced_type" : "type-5"
+    },
+    {
+     "field_name" : "max_lazy_match",
+     "field_offset" : 1664,
+     "referenced_type" : "type-5"
+    },
+    {
+     "field_name" : "level",
+     "field_offset" : 1696,
      "referenced_type" : "type-19"
     },
     {
      "field_name" : "strategy",
-     "field_offset" : 1088,
+     "field_offset" : 1728,
      "referenced_type" : "type-19"
     },
     {
      "field_name" : "good_match",
-     "field_offset" : 1120,
+     "field_offset" : 1760,
      "referenced_type" : "type-5"
     },
     {
      "field_name" : "nice_match",
-     "field_offset" : 1152,
+     "field_offset" : 1792,
      "referenced_type" : "type-19"
     },
     {
      "field_name" : "dyn_ltree",
-     "field_offset" : 1184,
-     "referenced_type" : "type-93"
+     "field_offset" : 1824,
+     "referenced_type" : "type-40"
     },
     {
      "field_name" : "dyn_dtree",
-     "field_offset" : 19520,
-     "referenced_type" : "type-94"
+     "field_offset" : 20160,
+     "referenced_type" : "type-41"
     },
     {
      "field_name" : "bl_tree",
-     "field_offset" : 21472,
-     "referenced_type" : "type-95"
+     "field_offset" : 22112,
+     "referenced_type" : "type-42"
     },
     {
      "field_name" : "l_desc",
-     "field_offset" : 22720,
-     "referenced_type" : "type-96"
+     "field_offset" : 23360,
+     "referenced_type" : "type-20"
     },
     {
      "field_name" : "d_desc",
-     "field_offset" : 22816,
-     "referenced_type" : "type-96"
+     "field_offset" : 23456,
+     "referenced_type" : "type-20"
     },
     {
      "field_name" : "bl_desc",
-     "field_offset" : 22912,
-     "referenced_type" : "type-96"
+     "field_offset" : 23552,
+     "referenced_type" : "type-20"
     },
     {
      "field_name" : "bl_count",
-     "field_offset" : 23008,
-     "referenced_type" : "type-101"
+     "field_offset" : 23648,
+     "referenced_type" : "type-29"
     },
     {
      "field_name" : "heap",
-     "field_offset" : 23264,
-     "referenced_type" : "type-102"
+     "field_offset" : 23904,
+     "referenced_type" : "type-30"
     },
     {
      "field_name" : "heap_len",
-     "field_offset" : 41600,
+     "field_offset" : 42240,
      "referenced_type" : "type-19"
     },
     {
      "field_name" : "heap_max",
-     "field_offset" : 41632,
+     "field_offset" : 42272,
      "referenced_type" : "type-19"
     },
     {
      "field_name" : "depth",
-     "field_offset" : 41664,
-     "referenced_type" : "type-103"
+     "field_offset" : 42304,
+     "referenced_type" : "type-31"
     },
     {
-     "field_name" : "l_buf",
-     "field_offset" : 46272,
+     "field_name" : "sym_buf",
+     "field_offset" : 46912,
      "referenced_type" : "type-7"
     },
     {
      "field_name" : "lit_bufsize",
-     "field_offset" : 46304,
+     "field_offset" : 46944,
      "referenced_type" : "type-5"
     },
     {
-     "field_name" : "last_lit",
-     "field_offset" : 46336,
+     "field_name" : "sym_next",
+     "field_offset" : 46976,
      "referenced_type" : "type-5"
     },
     {
-     "field_name" : "d_buf",
-     "field_offset" : 46368,
-     "referenced_type" : "type-92"
+     "field_name" : "sym_end",
+     "field_offset" : 47008,
+     "referenced_type" : "type-5"
     },
     {
      "field_name" : "opt_len",
-     "field_offset" : 46400,
+     "field_offset" : 47040,
      "referenced_type" : "type-6"
     },
     {
      "field_name" : "static_len",
-     "field_offset" : 46432,
+     "field_offset" : 47072,
      "referenced_type" : "type-6"
     },
     {
      "field_name" : "matches",
-     "field_offset" : 46464,
+     "field_offset" : 47104,
      "referenced_type" : "type-5"
     },
     {
      "field_name" : "insert",
-     "field_offset" : 46496,
+     "field_offset" : 47136,
      "referenced_type" : "type-5"
     },
     {
      "field_name" : "bi_buf",
-     "field_offset" : 46528,
-     "referenced_type" : "type-39"
+     "field_offset" : 47168,
+     "referenced_type" : "type-24"
     },
     {
      "field_name" : "bi_valid",
-     "field_offset" : 46560,
+     "field_offset" : 47200,
      "referenced_type" : "type-19"
     },
     {
      "field_name" : "high_water",
-     "field_offset" : 46592,
+     "field_offset" : 47232,
      "referenced_type" : "type-6"
     }
    ],
    "linker_set_key" : "internal_state",
    "name" : "internal_state",
-   "referenced_type" : "type-91",
-   "self_type" : "type-91",
-   "size" : 5828,
-   "source_file" : "/external/zlib/src/deflate.h",
+   "referenced_type" : "type-33",
+   "self_type" : "type-33",
+   "size" : 5908,
+   "source_file" : "/external/zlib/deflate.h",
    "unique_id" : "internal_state"
   },
   {
@@ -3908,7 +3804,7 @@
    [
     {
      "field_name" : "dyn_tree",
-     "referenced_type" : "type-97"
+     "referenced_type" : "type-21"
     },
     {
      "field_name" : "max_code",
@@ -3918,15 +3814,15 @@
     {
      "field_name" : "stat_desc",
      "field_offset" : 64,
-     "referenced_type" : "type-98"
+     "referenced_type" : "type-26"
     }
    ],
    "linker_set_key" : "tree_desc_s",
    "name" : "tree_desc_s",
-   "referenced_type" : "type-96",
-   "self_type" : "type-96",
+   "referenced_type" : "type-20",
+   "self_type" : "type-20",
    "size" : 12,
-   "source_file" : "/external/zlib/src/deflate.h",
+   "source_file" : "/external/zlib/deflate.h",
    "unique_id" : "tree_desc_s"
   },
   {
@@ -4008,7 +3904,7 @@
    "referenced_type" : "type-1",
    "self_type" : "type-1",
    "size" : 56,
-   "source_file" : "/external/zlib/src/zlib.h",
+   "source_file" : "/external/zlib/zlib.h",
    "unique_id" : "z_stream_s"
   }
  ],
